@@ -1,0 +1,7609 @@
+fileFormatVersion: 2
+guid: b1d55c89aa4554097970f6b214ba1ad5
+timeCreated: 1462156559
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Batman_0
+    21300002: Batman_1
+    21300004: Batman_2
+    21300006: Batman_3
+    21300008: Batman_4
+    21300010: Batman_5
+    21300012: Batman_6
+    21300014: Batman_7
+    21300016: Batman_8
+    21300018: Batman_9
+    21300020: Batman_10
+    21300022: Batman_11
+    21300024: Batman_12
+    21300026: Batman_13
+    21300028: Batman_14
+    21300030: Batman_15
+    21300032: Batman_16
+    21300034: Batman_17
+    21300036: Batman_18
+    21300038: Batman_19
+    21300040: Batman_20
+    21300042: Batman_21
+    21300044: Batman_22
+    21300046: Batman_23
+    21300048: Batman_24
+    21300050: Batman_25
+    21300052: Batman_26
+    21300054: Batman_27
+    21300056: Batman_28
+    21300058: Batman_29
+    21300060: Batman_30
+    21300062: Batman_31
+    21300064: Batman_32
+    21300066: Batman_33
+    21300068: Batman_34
+    21300070: Batman_35
+    21300072: Batman_36
+    21300074: Batman_37
+    21300076: Batman_38
+    21300078: Batman_39
+    21300080: Batman_40
+    21300082: Batman_41
+    21300084: Batman_42
+    21300086: Batman_43
+    21300088: Batman_44
+    21300090: Batman_45
+    21300092: Batman_46
+    21300094: Batman_47
+    21300096: Batman_48
+    21300098: Batman_49
+    21300100: Batman_50
+    21300102: Batman_51
+    21300104: Batman_52
+    21300106: Batman_53
+    21300108: Batman_54
+    21300110: Batman_55
+    21300112: Batman_56
+    21300114: Batman_57
+    21300116: Batman_58
+    21300118: Batman_59
+    21300120: Batman_60
+    21300122: Batman_61
+    21300124: Batman_62
+    21300126: Batman_63
+    21300128: Batman_64
+    21300130: Batman_65
+    21300132: Batman_66
+    21300134: Batman_67
+    21300136: Batman_68
+    21300138: Batman_69
+    21300140: Batman_70
+    21300142: Batman_71
+    21300144: Batman_72
+    21300146: Batman_73
+    21300148: Batman_74
+    21300150: Batman_75
+    21300152: Batman_76
+    21300154: Batman_77
+    21300156: Batman_78
+    21300158: Batman_79
+    21300160: Batman_80
+    21300162: Batman_81
+    21300164: Batman_82
+    21300166: Batman_83
+    21300168: Batman_84
+    21300170: Batman_85
+    21300172: Batman_86
+    21300174: Batman_87
+    21300176: Batman_88
+    21300178: Batman_89
+    21300180: Batman_90
+    21300182: Batman_91
+    21300184: Batman_92
+    21300186: Batman_93
+    21300188: Batman_94
+    21300190: Batman_95
+    21300192: Batman_96
+    21300194: Batman_97
+    21300196: Batman_98
+    21300198: Batman_99
+    21300200: Batman_100
+    21300202: Batman_101
+    21300204: Batman_102
+    21300206: Batman_103
+    21300208: Batman_104
+    21300210: Batman_105
+    21300212: Batman_106
+    21300214: Batman_107
+    21300216: Batman_108
+    21300218: Batman_109
+    21300220: Batman_110
+    21300222: Batman_111
+    21300224: Batman_112
+    21300226: Batman_113
+    21300228: Batman_114
+    21300230: Batman_115
+    21300232: Batman_116
+    21300234: Batman_117
+    21300236: Batman_118
+    21300238: Batman_119
+    21300240: Batman_120
+    21300242: Batman_121
+    21300244: Batman_122
+    21300246: Batman_123
+    21300248: Batman_124
+    21300250: Batman_125
+    21300252: Batman_126
+    21300254: Batman_127
+    21300256: Batman_128
+    21300258: Batman_129
+    21300260: Batman_130
+    21300262: Batman_131
+    21300264: Batman_132
+    21300266: Batman_133
+    21300268: Batman_134
+    21300270: Batman_135
+    21300272: Batman_136
+    21300274: Batman_137
+    21300276: Batman_138
+    21300278: Batman_139
+    21300280: Batman_140
+    21300282: Batman_141
+    21300284: Batman_142
+    21300286: Batman_143
+    21300288: Batman_144
+    21300290: Batman_145
+    21300292: Batman_146
+    21300294: Batman_147
+    21300296: Batman_148
+    21300298: Batman_149
+    21300300: Batman_150
+    21300302: Batman_151
+    21300304: Batman_152
+    21300306: Batman_153
+    21300308: Batman_154
+    21300310: Batman_155
+    21300312: Batman_156
+    21300314: Batman_157
+    21300316: Batman_158
+    21300318: Batman_159
+    21300320: Batman_160
+    21300322: Batman_161
+    21300324: Batman_162
+    21300326: Batman_163
+    21300328: Batman_164
+    21300330: Batman_165
+    21300332: Batman_166
+    21300334: Batman_167
+    21300336: Batman_168
+    21300338: Batman_169
+    21300340: Batman_170
+    21300342: Batman_171
+    21300344: Batman_172
+    21300346: Batman_173
+    21300348: Batman_174
+    21300350: Batman_175
+    21300352: Batman_176
+    21300354: Batman_177
+    21300356: Batman_178
+    21300358: Batman_179
+    21300360: Batman_180
+    21300362: Batman_181
+    21300364: Batman_182
+    21300366: Batman_183
+    21300368: Batman_184
+    21300370: Batman_185
+    21300372: Batman_186
+    21300374: Batman_187
+    21300376: Batman_188
+    21300378: Batman_189
+    21300380: Batman_190
+    21300382: Batman_191
+    21300384: Batman_192
+    21300386: Batman_193
+    21300388: Batman_194
+    21300390: Batman_195
+    21300392: Batman_196
+    21300394: Batman_197
+    21300396: Batman_198
+    21300398: Batman_199
+    21300400: Batman_200
+    21300402: Batman_201
+    21300404: Batman_202
+    21300406: Batman_203
+    21300408: Batman_204
+    21300410: Batman_205
+    21300412: Batman_206
+    21300414: Batman_207
+    21300416: Batman_208
+    21300418: Batman_209
+    21300420: Batman_210
+    21300422: Batman_211
+    21300424: Batman_212
+    21300426: Batman_213
+    21300428: Batman_214
+    21300430: Batman_215
+    21300432: Batman_216
+    21300434: Batman_217
+    21300436: Batman_218
+    21300438: Batman_219
+    21300440: Batman_220
+    21300442: Batman_221
+    21300444: Batman_222
+    21300446: Batman_223
+    21300448: Batman_224
+    21300450: Batman_225
+    21300452: Batman_226
+    21300454: Batman_227
+    21300456: Batman_228
+    21300458: Batman_229
+    21300460: Batman_230
+    21300462: Batman_231
+    21300464: Batman_232
+    21300466: Batman_233
+    21300468: Batman_234
+    21300470: Batman_235
+    21300472: Batman_236
+    21300474: Batman_237
+    21300476: Batman_238
+    21300478: Batman_239
+    21300480: Batman_240
+    21300482: Batman_241
+    21300484: Batman_242
+    21300486: Batman_243
+    21300488: Batman_244
+    21300490: Batman_245
+    21300492: Batman_246
+    21300494: Batman_247
+    21300496: Batman_248
+    21300498: Batman_249
+    21300500: Batman_250
+    21300502: Batman_251
+    21300504: Batman_252
+    21300506: Batman_253
+    21300508: Batman_254
+    21300510: Batman_255
+    21300512: Batman_256
+    21300514: Batman_257
+    21300516: Batman_258
+    21300518: Batman_259
+    21300520: Batman_260
+    21300522: Batman_261
+    21300524: Batman_262
+    21300526: Batman_263
+    21300528: Batman_264
+    21300530: Batman_265
+    21300532: Batman_266
+    21300534: Batman_267
+    21300536: Batman_268
+    21300538: Batman_269
+    21300540: Batman_270
+    21300542: Batman_271
+    21300544: Batman_272
+    21300546: Batman_273
+    21300548: Batman_274
+    21300550: Batman_275
+    21300552: Batman_276
+    21300554: Batman_277
+    21300556: Batman_278
+    21300558: Batman_279
+    21300560: Batman_280
+    21300562: Batman_281
+    21300564: Batman_282
+    21300566: Batman_283
+    21300568: Batman_284
+    21300570: Batman_285
+    21300572: Batman_286
+    21300574: Batman_287
+    21300576: Batman_288
+    21300578: Batman_289
+    21300580: Batman_290
+    21300582: Batman_291
+    21300584: Batman_292
+    21300586: Batman_293
+    21300588: Batman_294
+    21300590: Batman_295
+    21300592: Batman_296
+    21300594: Batman_297
+    21300596: Batman_298
+    21300598: Batman_299
+    21300600: Batman_300
+    21300602: Batman_301
+    21300604: Batman_302
+    21300606: Batman_303
+    21300608: Batman_304
+    21300610: Batman_305
+    21300612: Batman_306
+    21300614: Batman_307
+    21300616: Batman_308
+    21300618: Batman_309
+    21300620: Batman_310
+    21300622: Batman_311
+    21300624: Batman_312
+    21300626: Batman_313
+    21300628: Batman_314
+    21300630: Batman_315
+    21300632: Batman_316
+    21300634: Batman_317
+    21300636: Batman_318
+    21300638: Batman_319
+    21300640: Batman_320
+    21300642: Batman_321
+    21300644: Batman_322
+    21300646: Batman_323
+    21300648: Batman_324
+    21300650: Batman_325
+    21300652: Batman_326
+    21300654: Batman_327
+    21300656: Batman_328
+    21300658: Batman_329
+    21300660: Batman_330
+    21300662: Batman_331
+    21300664: Batman_332
+    21300666: Batman_333
+    21300668: Batman_334
+    21300670: Batman_335
+    21300672: Batman_336
+    21300674: Batman_337
+    21300676: Batman_338
+    21300678: Batman_339
+    21300680: Batman_340
+    21300682: Batman_341
+    21300684: Batman_342
+    21300686: Batman_343
+    21300688: Batman_344
+    21300690: Batman_345
+    21300692: Batman_346
+    21300694: Batman_347
+    21300696: Batman_348
+    21300698: Batman_349
+    21300700: Batman_350
+    21300702: Batman_351
+    21300704: Batman_352
+    21300706: Batman_353
+    21300708: Batman_354
+    21300710: Batman_355
+    21300712: Batman_356
+    21300714: Batman_357
+    21300716: Batman_358
+    21300718: Batman_359
+    21300720: Batman_360
+    21300722: Batman_361
+    21300724: Batman_362
+    21300726: Batman_363
+    21300728: Batman_364
+    21300730: Batman_365
+    21300732: Batman_366
+    21300734: Batman_367
+    21300736: Batman_368
+    21300738: Batman_369
+    21300740: Batman_370
+    21300742: Batman_371
+    21300744: Batman_372
+    21300746: Batman_373
+    21300748: Batman_374
+    21300750: Batman_375
+    21300752: Batman_376
+    21300754: Batman_377
+    21300756: Batman_378
+    21300758: Batman_379
+    21300760: Batman_380
+    21300762: Batman_381
+    21300764: Batman_382
+    21300766: Batman_383
+    21300768: Batman_384
+    21300770: Batman_385
+    21300772: Batman_386
+    21300774: Batman_387
+    21300776: Batman_388
+    21300778: Batman_389
+    21300780: Batman_390
+    21300782: Batman_391
+    21300784: Batman_392
+    21300786: Batman_393
+    21300788: Batman_394
+    21300790: Batman_395
+    21300792: Batman_396
+    21300794: Batman_397
+    21300796: Batman_398
+    21300798: Batman_399
+    21300800: Batman_400
+    21300802: Batman_401
+    21300804: Batman_402
+    21300806: Batman_403
+    21300808: Batman_404
+    21300810: Batman_405
+    21300812: Batman_406
+    21300814: Batman_407
+    21300816: Batman_408
+    21300818: Batman_409
+    21300820: Batman_410
+    21300822: Batman_411
+    21300824: Batman_412
+    21300826: Batman_413
+    21300828: Batman_414
+    21300830: Batman_415
+    21300832: Batman_416
+    21300834: Batman_417
+    21300836: Batman_418
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Batman_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2783
+        width: 20
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2748
+        width: 199
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.5, y: 49}
+        - {x: -99.5, y: 0}
+        - {x: 99.5, y: 0}
+        - {x: 99.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 49}
+        - {x: -9.5, y: 47}
+        - {x: -17.5, y: 40}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 39}
+        - {x: 10.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 0}
+        - {x: 16.5, y: 2}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 39}
+        - {x: 12.5, y: 49}
+        - {x: -6.5, y: 49}
+        - {x: -17.5, y: 44}
+        - {x: -17.5, y: 0}
+        - {x: -5.5, y: 0}
+        - {x: -5.5, y: 2}
+        - {x: -2.5, y: 5}
+        - {x: 1.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 49}
+        - {x: -10.5, y: 45}
+        - {x: -17.5, y: 37}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 38}
+        - {x: 8.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 49}
+        - {x: -10.5, y: 46}
+        - {x: -17.5, y: 37}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 38}
+        - {x: 8.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2728
+        width: 34
+        height: 49
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.660004, y: 49}
+        - {x: -16.660004, y: 43}
+        - {x: -16.660004, y: 0}
+        - {x: 17.339996, y: 0}
+        - {x: 17.339996, y: 43}
+        - {x: 8.339996, y: 49}
+      tessellationDetail: 0
+    - name: Batman_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 49}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 49}
+        - {x: -10.5, y: 45}
+        - {x: -17.5, y: 37}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 38}
+        - {x: 8.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2728
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 0}
+        - {x: 17.5, y: 38}
+        - {x: 8.5, y: 49}
+        - {x: -3.5, y: 49}
+        - {x: -8.5, y: 46}
+        - {x: -17.5, y: 37}
+        - {x: -17.5, y: 0}
+        - {x: -5.5, y: 0}
+        - {x: -5.5, y: 2}
+        - {x: -2.5, y: 5}
+        - {x: 1.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2714
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2661
+        width: 57
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 43}
+        - {x: -28.5, y: 39}
+        - {x: -28.5, y: 3}
+        - {x: -24.5, y: 0}
+        - {x: -2.5, y: 0}
+        - {x: 22.5, y: 8}
+        - {x: 28.5, y: 18}
+        - {x: 28.5, y: 38}
+        - {x: 21.5, y: 43}
+      tessellationDetail: 0
+    - name: Batman_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2661
+        width: 62
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 44}
+        - {x: -31, y: 0}
+        - {x: 14, y: 0}
+        - {x: 31, y: 7}
+        - {x: 31, y: 44}
+      tessellationDetail: 0
+    - name: Batman_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2665
+        width: 61
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 30.5, y: 17}
+        - {x: 30.5, y: 42}
+        - {x: -30.5, y: 42}
+        - {x: -30.5, y: 1}
+        - {x: -29.5, y: 0}
+        - {x: -16.5, y: 0}
+        - {x: -5.5, y: 9}
+        - {x: -3.5, y: 10}
+        - {x: -0.5, y: 3}
+      tessellationDetail: 0
+    - name: Batman_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2664
+        width: 60
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 43}
+        - {x: -30, y: 0}
+        - {x: 22, y: 0}
+        - {x: 30, y: 9}
+        - {x: 30, y: 42}
+        - {x: 29, y: 43}
+      tessellationDetail: 0
+    - name: Batman_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2661
+        width: 61
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 40}
+        - {x: 23.5, y: 45}
+        - {x: -30.5, y: 45}
+        - {x: -30.5, y: 5}
+        - {x: -13.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 18.5, y: 3}
+        - {x: 19.5, y: 7}
+        - {x: 30.5, y: 24}
+      tessellationDetail: 0
+    - name: Batman_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2661
+        width: 53
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 42}
+        - {x: -26.5, y: 6}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 26.5, y: 15}
+        - {x: 26.5, y: 42}
+      tessellationDetail: 0
+    - name: Batman_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2661
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 41}
+        - {x: -24, y: 39}
+        - {x: -24, y: 5}
+        - {x: -23, y: 0}
+        - {x: 19, y: 0}
+        - {x: 24, y: 21}
+        - {x: 24, y: 41}
+      tessellationDetail: 0
+    - name: Batman_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2661
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 42}
+        - {x: -23.5, y: 32}
+        - {x: -23.5, y: 18}
+        - {x: -10.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 23.5, y: 14}
+        - {x: 23.5, y: 42}
+      tessellationDetail: 0
+    - name: Batman_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2602
+        width: 57
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 43}
+        - {x: -28.5, y: 6}
+        - {x: -18.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 28.5, y: 10}
+        - {x: 28.5, y: 43}
+      tessellationDetail: 0
+    - name: Batman_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2602
+        width: 62
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 44}
+        - {x: -31, y: 41}
+        - {x: -31, y: 25}
+        - {x: -21, y: 17}
+        - {x: -17, y: 17}
+        - {x: -16, y: 18}
+        - {x: -14, y: 18}
+        - {x: -16, y: 18}
+        - {x: -20, y: 14}
+        - {x: -24, y: 9}
+        - {x: -24, y: 5}
+        - {x: -21, y: 0}
+        - {x: 4, y: 0}
+        - {x: 31, y: 14}
+        - {x: 31, y: 42}
+        - {x: 29, y: 44}
+      tessellationDetail: 0
+    - name: Batman_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2606
+        width: 60
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 41}
+        - {x: -30, y: 31}
+        - {x: -23, y: 20}
+        - {x: -13, y: 20}
+        - {x: -28, y: 9}
+        - {x: -30, y: 6}
+        - {x: -30, y: 0}
+        - {x: 20, y: 0}
+        - {x: 30, y: 16}
+        - {x: 30, y: 39}
+        - {x: 24, y: 41}
+      tessellationDetail: 0
+    - name: Batman_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2605
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 43}
+        - {x: -29.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 29.5, y: 12}
+        - {x: 29.5, y: 41}
+        - {x: 26.5, y: 43}
+      tessellationDetail: 0
+    - name: Batman_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2605
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 45}
+        - {x: -30, y: 36}
+        - {x: -26, y: 30}
+        - {x: -17, y: 27}
+        - {x: -13, y: 27}
+        - {x: -26, y: 24}
+        - {x: -30, y: 20}
+        - {x: -30, y: 6}
+        - {x: -12, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 45}
+      tessellationDetail: 0
+    - name: Batman_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2605
+        width: 54
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 42}
+        - {x: -27, y: 20}
+        - {x: -22, y: 0}
+        - {x: 19, y: 0}
+        - {x: 27, y: 15}
+        - {x: 27, y: 35}
+        - {x: 26, y: 42}
+      tessellationDetail: 0
+    - name: Batman_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2605
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 41}
+        - {x: -23.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 23.5, y: 21}
+        - {x: 23.5, y: 41}
+      tessellationDetail: 0
+    - name: Batman_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2605
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 42}
+        - {x: -23.5, y: 41}
+        - {x: -23.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 19.5, y: 4}
+        - {x: 23.5, y: 9}
+        - {x: 23.5, y: 42}
+      tessellationDetail: 0
+    - name: Batman_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2588
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2519
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 52}
+        - {x: -10.5, y: 52}
+        - {x: -17.5, y: 48}
+        - {x: -17.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 17.5, y: 15}
+        - {x: 17.5, y: 39}
+        - {x: 12.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2527
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 53}
+        - {x: -12.5, y: 53}
+        - {x: -17.5, y: 45}
+        - {x: -17.5, y: 3}
+        - {x: -13.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 13.5, y: 7}
+        - {x: 17.5, y: 27}
+        - {x: 17.5, y: 42}
+      tessellationDetail: 0
+    - name: Batman_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2526
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 53}
+        - {x: -16.5, y: 52}
+        - {x: -17.5, y: 50}
+        - {x: -17.5, y: 12}
+        - {x: -15.5, y: 2}
+        - {x: -11.5, y: 5}
+        - {x: -9.5, y: 7}
+        - {x: -6.5, y: 1}
+        - {x: -6.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 17.5, y: 8}
+        - {x: 17.5, y: 47}
+        - {x: 11.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2526
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 50}
+        - {x: -27.5, y: 50}
+        - {x: -27.5, y: 23}
+        - {x: -16.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 27.5, y: 12}
+        - {x: 27.5, y: 46}
+        - {x: 26.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2519
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 58}
+        - {x: -27.5, y: 26}
+        - {x: -20.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 27.5, y: 13}
+        - {x: 27.5, y: 43}
+        - {x: 8.5, y: 58}
+      tessellationDetail: 0
+    - name: Batman_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2519
+        width: 56
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 58}
+        - {x: -28, y: 37}
+        - {x: -15, y: 0}
+        - {x: 19, y: 0}
+        - {x: 28, y: 9}
+        - {x: 28, y: 44}
+        - {x: 12, y: 58}
+      tessellationDetail: 0
+    - name: Batman_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2518
+        width: 47
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 63}
+        - {x: -23.5, y: 19}
+        - {x: -20.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 43}
+        - {x: 8.5, y: 63}
+      tessellationDetail: 0
+    - name: Batman_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2518
+        width: 44
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 57}
+        - {x: -22, y: 30}
+        - {x: -18, y: 0}
+        - {x: 20, y: 0}
+        - {x: 22, y: 10}
+        - {x: 22, y: 32}
+        - {x: 7, y: 57}
+      tessellationDetail: 0
+    - name: Batman_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2518
+        width: 45
+        height: 50
+      alignment: 9
+      pivot: {x: 0.54760337, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.64215, y: 50}
+        - {x: -24.64215, y: 17}
+        - {x: -22.64215, y: 0}
+        - {x: 20.35785, y: 0}
+        - {x: 20.35785, y: 35}
+        - {x: 5.357849, y: 50}
+      tessellationDetail: 0
+    - name: Batman_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2518
+        width: 47
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5580081, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.22638, y: 43}
+        - {x: -26.22638, y: 19}
+        - {x: -22.22638, y: 0}
+        - {x: 20.77362, y: 0}
+        - {x: 20.77362, y: 31}
+        - {x: 14.773621, y: 43}
+      tessellationDetail: 0
+    - name: Batman_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2518
+        width: 49
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5834612, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5896, y: 38}
+        - {x: -28.5896, y: 32}
+        - {x: -28.5896, y: 13}
+        - {x: -20.5896, y: 0}
+        - {x: 17.4104, y: 0}
+        - {x: 20.4104, y: 3}
+        - {x: 20.4104, y: 31}
+        - {x: 17.4104, y: 38}
+      tessellationDetail: 0
+    - name: Batman_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2518
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.60954285, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.258057, y: 38}
+        - {x: -29.258057, y: 26}
+        - {x: -29.258057, y: 6}
+        - {x: -23.258057, y: 0}
+        - {x: 18.741943, y: 0}
+        - {x: 18.741943, y: 38}
+      tessellationDetail: 0
+    - name: Batman_40
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2518
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 47}
+        - {x: -20, y: 34}
+        - {x: -21, y: 29}
+        - {x: -21, y: 4}
+        - {x: -17, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 41}
+        - {x: 13, y: 47}
+      tessellationDetail: 0
+    - name: Batman_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2504
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2433
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 26.5, y: 10}
+        - {x: 26.5, y: 37}
+        - {x: 9.5, y: 64}
+        - {x: -26.5, y: 64}
+        - {x: -26.5, y: 32}
+      tessellationDetail: 0
+    - name: Batman_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2433
+        width: 42
+        height: 52
+      alignment: 9
+      pivot: {x: 0.43508565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.273598, y: 52}
+        - {x: -18.273598, y: 31}
+        - {x: -13.273598, y: 0}
+        - {x: 23.726402, y: 0}
+        - {x: 23.726402, y: 29}
+        - {x: 19.726402, y: 52}
+      tessellationDetail: 0
+    - name: Batman_44
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2433
+        width: 43
+        height: 47
+      alignment: 9
+      pivot: {x: 0.45923987, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.747314, y: 47}
+        - {x: -19.747314, y: 14}
+        - {x: -12.747314, y: 0}
+        - {x: 23.252686, y: 0}
+        - {x: 23.252686, y: 23}
+        - {x: 13.252686, y: 47}
+      tessellationDetail: 0
+    - name: Batman_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2433
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4576645, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.052567, y: 41}
+        - {x: -21.052567, y: 27}
+        - {x: -18.052567, y: 21}
+        - {x: -11.052567, y: 0}
+        - {x: 24.947433, y: 0}
+        - {x: 24.947433, y: 20}
+        - {x: 23.947433, y: 30}
+        - {x: 2.9474335, y: 41}
+      tessellationDetail: 0
+    - name: Batman_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2433
+        width: 51
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 32}
+        - {x: -25.5, y: 32}
+        - {x: -25.5, y: 19}
+        - {x: -11.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 25.5, y: 14}
+        - {x: 21.5, y: 27}
+      tessellationDetail: 0
+    - name: Batman_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2433
+        width: 52
+        height: 31
+      alignment: 9
+      pivot: {x: 0.52996004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2433
+        width: 52
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5374504, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_49
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2433
+        width: 52
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5486855, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2433
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.52336913, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_51
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2433
+        width: 43
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 33}
+        - {x: -20.5, y: 32}
+        - {x: -21.5, y: 20}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 28}
+        - {x: 20.5, y: 33}
+      tessellationDetail: 0
+    - name: Batman_52
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2433
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 41}
+        - {x: -18.5, y: 37}
+        - {x: -19.5, y: 29}
+        - {x: -19.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 41}
+      tessellationDetail: 0
+    - name: Batman_53
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2433
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 47}
+        - {x: -18, y: 34}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 34}
+        - {x: 9, y: 47}
+      tessellationDetail: 0
+    - name: Batman_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2419
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2419
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2364
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 48}
+        - {x: -19, y: 46}
+        - {x: -19, y: 4}
+        - {x: -18, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 40}
+        - {x: 10, y: 48}
+      tessellationDetail: 0
+    - name: Batman_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2364
+        width: 53
+        height: 47
+      alignment: 9
+      pivot: {x: 0.39327627, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8436432, y: 47}
+        - {x: -20.843643, y: 39}
+        - {x: -20.843643, y: 2}
+        - {x: -17.843643, y: 0}
+        - {x: 19.156357, y: 0}
+        - {x: 32.156357, y: 13}
+        - {x: 32.156357, y: 43}
+        - {x: 24.156357, y: 47}
+      tessellationDetail: 0
+    - name: Batman_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2364
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.40438902, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.6238403, y: 47}
+        - {x: -20.62384, y: 35}
+        - {x: -20.62384, y: 0}
+        - {x: 21.37616, y: 0}
+        - {x: 30.37616, y: 19}
+        - {x: 30.37616, y: 47}
+      tessellationDetail: 0
+    - name: Batman_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2364
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5579871, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.645523, y: 48}
+        - {x: -20.645523, y: 30}
+        - {x: -20.645523, y: 2}
+        - {x: -19.645523, y: 0}
+        - {x: 16.354477, y: 0}
+        - {x: 16.354477, y: 45}
+        - {x: 15.354477, y: 48}
+      tessellationDetail: 0
+    - name: Batman_60
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2384
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_61
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2364
+        width: 35
+        height: 47
+      alignment: 9
+      pivot: {x: 0.44427228, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.45047, y: 46}
+        - {x: 18.45047, y: 47}
+        - {x: -5.54953, y: 47}
+        - {x: -6.54953, y: 46}
+        - {x: -11.54953, y: 39}
+        - {x: -12.54953, y: 36}
+        - {x: -15.54953, y: 24}
+        - {x: -15.54953, y: 0}
+        - {x: 19.45047, y: 0}
+      tessellationDetail: 0
+    - name: Batman_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2364
+        width: 51
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40438902, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.62384, y: 48}
+        - {x: -20.62384, y: 31}
+        - {x: -20.62384, y: 0}
+        - {x: 20.37616, y: 0}
+        - {x: 30.37616, y: 21}
+        - {x: 30.37616, y: 48}
+      tessellationDetail: 0
+    - name: Batman_63
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2364
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.37703538, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.343628, y: 48}
+        - {x: -17.343628, y: 40}
+        - {x: -17.343628, y: 0}
+        - {x: 22.656372, y: 0}
+        - {x: 28.656372, y: 21}
+        - {x: 28.656372, y: 44}
+        - {x: 20.656372, y: 48}
+      tessellationDetail: 0
+    - name: Batman_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2364
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.43674117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.840576, y: 48}
+        - {x: -16.159424, y: 48}
+        - {x: -16.159424, y: 0}
+        - {x: 18.840576, y: 0}
+        - {x: 20.840576, y: 6}
+        - {x: 20.840576, y: 38}
+      tessellationDetail: 0
+    - name: Batman_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2384
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2364
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5474433, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.255402, y: 47}
+        - {x: -20.255402, y: 42}
+        - {x: -20.255402, y: 0}
+        - {x: 16.744598, y: 0}
+        - {x: 16.744598, y: 42}
+        - {x: 12.744598, y: 47}
+      tessellationDetail: 0
+    - name: Batman_67
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2364
+        width: 41
+        height: 45
+      alignment: 9
+      pivot: {x: 0.55708724, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.840576, y: 45}
+        - {x: -22.840576, y: 42}
+        - {x: -22.840576, y: 0}
+        - {x: 18.159424, y: 0}
+        - {x: 18.159424, y: 42}
+        - {x: 13.159424, y: 45}
+      tessellationDetail: 0
+    - name: Batman_68
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2364
+        width: 60
+        height: 46
+      alignment: 9
+      pivot: {x: 0.38947347, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.368408, y: 46}
+        - {x: -23.368408, y: 28}
+        - {x: -23.368408, y: 0}
+        - {x: 21.631592, y: 0}
+        - {x: 36.63159, y: 28}
+        - {x: 36.63159, y: 46}
+      tessellationDetail: 0
+    - name: Batman_69
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2364
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4085722, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.14862, y: 0}
+        - {x: 27.85138, y: 0}
+        - {x: 37.85138, y: 31}
+        - {x: 37.85138, y: 46}
+        - {x: -7.1486206, y: 46}
+        - {x: -26.14862, y: 40}
+      tessellationDetail: 0
+    - name: Batman_70
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2364
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4326194, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.205933, y: 47}
+        - {x: 6.2059326, y: 47}
+        - {x: -4.7940674, y: 41}
+        - {x: -23.794067, y: 28}
+        - {x: -23.794067, y: 0}
+        - {x: 22.205933, y: 0}
+        - {x: 24.205933, y: 3}
+        - {x: 31.205933, y: 20}
+        - {x: 31.205933, y: 46}
+      tessellationDetail: 0
+    - name: Batman_71
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2364
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.576991, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.925659, y: 48}
+        - {x: -21.92566, y: 29}
+        - {x: -21.92566, y: 0}
+        - {x: 16.07434, y: 0}
+        - {x: 16.07434, y: 38}
+        - {x: 13.074341, y: 48}
+      tessellationDetail: 0
+    - name: Batman_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2350
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2350
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2280
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.59142876, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.92572, y: 50}
+        - {x: -18.92572, y: 0}
+        - {x: 13.07428, y: 0}
+        - {x: 13.07428, y: 45}
+        - {x: 9.07428, y: 50}
+      tessellationDetail: 0
+    - name: Batman_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2280
+        width: 36
+        height: 55
+      alignment: 9
+      pivot: {x: 0.60835946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.90094, y: 55}
+        - {x: -20.90094, y: 53}
+        - {x: -21.90094, y: 44}
+        - {x: -21.90094, y: 0}
+        - {x: 14.09906, y: 0}
+        - {x: 14.09906, y: 47}
+        - {x: 7.09906, y: 55}
+      tessellationDetail: 0
+    - name: Batman_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2280
+        width: 54
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 47}
+        - {x: 15, y: 59}
+        - {x: -10, y: 59}
+        - {x: -27, y: 43}
+        - {x: -27, y: 0}
+        - {x: 15, y: 0}
+        - {x: 16, y: 3}
+        - {x: 25, y: 10}
+        - {x: 27, y: 12}
+      tessellationDetail: 0
+    - name: Batman_77
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2280
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 0.625968, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.046463, y: 41}
+        - {x: -30.046463, y: 34}
+        - {x: -30.046463, y: 19}
+        - {x: -22.046463, y: 1}
+        - {x: -21.046463, y: 0}
+        - {x: 15.953537, y: 0}
+        - {x: 17.953537, y: 7}
+        - {x: 17.953537, y: 41}
+      tessellationDetail: 0
+    - name: Batman_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2280
+        width: 50
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6755423, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.777115, y: 43}
+        - {x: -33.777115, y: 40}
+        - {x: -33.777115, y: 0}
+        - {x: 16.222885, y: 0}
+        - {x: 16.222885, y: 41}
+        - {x: 15.222885, y: 43}
+      tessellationDetail: 0
+    - name: Batman_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2280
+        width: 54
+        height: 42
+      alignment: 9
+      pivot: {x: 0.59029925, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.87616, y: 42}
+        - {x: -31.87616, y: 41}
+        - {x: -31.87616, y: 7}
+        - {x: -26.87616, y: 0}
+        - {x: 20.12384, y: 0}
+        - {x: 22.12384, y: 10}
+        - {x: 22.12384, y: 32}
+        - {x: 17.12384, y: 42}
+      tessellationDetail: 0
+    - name: Batman_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2280
+        width: 42
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5371515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.439636, y: 38}
+        - {x: 13.439636, y: 47}
+        - {x: -0.56036377, y: 47}
+        - {x: -9.560364, y: 44}
+        - {x: -22.560364, y: 21}
+        - {x: -22.560364, y: 2}
+        - {x: -18.560364, y: 0}
+        - {x: 18.439636, y: 0}
+        - {x: 19.439636, y: 3}
+      tessellationDetail: 0
+    - name: Batman_81
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2308
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_82
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2280
+        width: 48
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6340949, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.436554, y: 37}
+        - {x: -30.436554, y: 23}
+        - {x: -30.436554, y: 7}
+        - {x: -22.436554, y: 0}
+        - {x: 17.563446, y: 0}
+        - {x: 17.563446, y: 37}
+      tessellationDetail: 0
+    - name: Batman_83
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2280
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6121521, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.486084, y: 37}
+        - {x: -24.486084, y: 20}
+        - {x: -24.486084, y: 0}
+        - {x: 15.513916, y: 0}
+        - {x: 15.513916, y: 37}
+      tessellationDetail: 0
+    - name: Batman_84
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2280
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5450111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.744568, y: 4}
+        - {x: 17.744568, y: 41}
+        - {x: 14.744568, y: 42}
+        - {x: -7.255432, y: 42}
+        - {x: -14.255432, y: 37}
+        - {x: -21.255432, y: 11}
+        - {x: -21.255432, y: 0}
+        - {x: -6.255432, y: 0}
+        - {x: -4.255432, y: 2}
+        - {x: 1.7445679, y: 0}
+        - {x: 16.744568, y: 0}
+      tessellationDetail: 0
+    - name: Batman_85
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2280
+        width: 39
+        height: 61
+      alignment: 9
+      pivot: {x: 0.3849722, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.986084, y: 17}
+        - {x: 21.986084, y: 15}
+        - {x: 23.986084, y: 16}
+        - {x: 23.986084, y: 47}
+        - {x: 13.986084, y: 61}
+        - {x: -2.013916, y: 61}
+        - {x: -15.013916, y: 46}
+        - {x: -15.013916, y: 0}
+        - {x: 13.986084, y: 0}
+        - {x: 18.986084, y: 9}
+        - {x: 18.986084, y: 21}
+        - {x: 17.986084, y: 26}
+      tessellationDetail: 0
+    - name: Batman_86
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2280
+        width: 36
+        height: 63
+      alignment: 9
+      pivot: {x: 0.38080513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.291016, y: 63}
+        - {x: -7.7089844, y: 63}
+        - {x: -13.708984, y: 50}
+        - {x: -13.708984, y: 0}
+        - {x: 18.291016, y: 0}
+        - {x: 22.291016, y: 3}
+        - {x: 22.291016, y: 38}
+        - {x: 18.291016, y: 61}
+      tessellationDetail: 0
+    - name: Batman_87
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2280
+        width: 42
+        height: 63
+      alignment: 9
+      pivot: {x: 0.3792565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.071228, y: 59}
+        - {x: 6.071228, y: 63}
+        - {x: -10.928772, y: 63}
+        - {x: -15.928772, y: 53}
+        - {x: -15.928772, y: 0}
+        - {x: 16.071228, y: 0}
+        - {x: 24.071228, y: 6}
+        - {x: 26.071228, y: 11}
+        - {x: 26.071228, y: 28}
+      tessellationDetail: 0
+    - name: Batman_88
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2280
+        width: 37
+        height: 54
+      alignment: 9
+      pivot: {x: 0.43674117, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.159424, y: 54}
+        - {x: -16.159424, y: 50}
+        - {x: -16.159424, y: 0}
+        - {x: 16.840576, y: 0}
+        - {x: 20.840576, y: 7}
+        - {x: 20.840576, y: 39}
+        - {x: 17.840576, y: 54}
+      tessellationDetail: 0
+    - name: Batman_89
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2280
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42956543, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.4643555, y: 49}
+        - {x: -15.464355, y: 44}
+        - {x: -15.464355, y: 0}
+        - {x: 19.535645, y: 0}
+        - {x: 20.535645, y: 7}
+        - {x: 20.535645, y: 43}
+        - {x: 15.535645, y: 49}
+      tessellationDetail: 0
+    - name: Batman_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2266
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2266
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2266
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2193
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.60018194, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.408005, y: 60}
+        - {x: -26.408005, y: 30}
+        - {x: -15.408005, y: 0}
+        - {x: 15.591995, y: 0}
+        - {x: 17.591995, y: 4}
+        - {x: 17.591995, y: 52}
+        - {x: 7.5919952, y: 60}
+      tessellationDetail: 0
+    - name: Batman_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2193
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5194357, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.275551, y: 60}
+        - {x: -31.72445, y: 60}
+        - {x: -32.72445, y: 59}
+        - {x: -32.72445, y: 22}
+        - {x: -16.72445, y: 0}
+        - {x: 12.275551, y: 0}
+        - {x: 21.27555, y: 6}
+        - {x: 30.27555, y: 19}
+        - {x: 30.27555, y: 49}
+      tessellationDetail: 0
+    - name: Batman_95
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2193
+        width: 67
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5438606, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.43866, y: 58}
+        - {x: -36.43866, y: 56}
+        - {x: -36.43866, y: 45}
+        - {x: -32.43866, y: 40}
+        - {x: -17.43866, y: 0}
+        - {x: -1.4386597, y: 0}
+        - {x: 17.56134, y: 11}
+        - {x: 30.56134, y: 30}
+        - {x: 30.56134, y: 51}
+        - {x: 8.56134, y: 58}
+      tessellationDetail: 0
+    - name: Batman_96
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2193
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.62244445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.36711, y: 58}
+        - {x: -32.36711, y: 39}
+        - {x: -13.367111, y: 0}
+        - {x: 0.6328888, y: 0}
+        - {x: 19.632889, y: 14}
+        - {x: 19.632889, y: 53}
+        - {x: 16.632889, y: 58}
+      tessellationDetail: 0
+    - name: Batman_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2222
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2193
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6054388, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.482819, y: 56}
+        - {x: -31.482819, y: 12}
+        - {x: -19.482819, y: 0}
+        - {x: 16.517181, y: 0}
+        - {x: 20.517181, y: 7}
+        - {x: 20.517181, y: 56}
+      tessellationDetail: 0
+    - name: Batman_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2193
+        width: 65
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 58}
+        - {x: -32.5, y: 52}
+        - {x: -32.5, y: 36}
+        - {x: -24.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 24.5, y: 7}
+        - {x: 32.5, y: 29}
+        - {x: 32.5, y: 45}
+        - {x: -1.5, y: 58}
+      tessellationDetail: 0
+    - name: Batman_100
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2193
+        width: 57
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 60}
+        - {x: -28.5, y: 58}
+        - {x: -28.5, y: 26}
+        - {x: -20.5, y: 0}
+        - {x: 2.5, y: 0}
+        - {x: 18.5, y: 9}
+        - {x: 28.5, y: 28}
+        - {x: 28.5, y: 48}
+        - {x: 5.5, y: 60}
+      tessellationDetail: 0
+    - name: Batman_101
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2193
+        width: 54
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 58}
+        - {x: -27, y: 43}
+        - {x: -12, y: 0}
+        - {x: 4, y: 0}
+        - {x: 27, y: 23}
+        - {x: 27, y: 42}
+        - {x: 16, y: 58}
+      tessellationDetail: 0
+    - name: Batman_102
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2222
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_103
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2193
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: 0.80225784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.717407, y: 59}
+        - {x: -41.717407, y: 14}
+        - {x: -32.717407, y: 0}
+        - {x: 10.282593, y: 0}
+        - {x: 10.282593, y: 59}
+      tessellationDetail: 0
+    - name: Batman_104
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2193
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: 0.816317, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.448486, y: 20}
+        - {x: -20.448486, y: 0}
+        - {x: 9.551514, y: 0}
+        - {x: 9.551514, y: 54}
+        - {x: 1.5515137, y: 59}
+        - {x: -27.448486, y: 59}
+        - {x: -42.448486, y: 55}
+      tessellationDetail: 0
+    - name: Batman_105
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2193
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: 0.62301284, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.396667, y: 56}
+        - {x: -32.396667, y: 36}
+        - {x: -27.396667, y: 29}
+        - {x: -11.3966675, y: 0}
+        - {x: 9.6033325, y: 0}
+        - {x: 19.603333, y: 33}
+        - {x: 19.603333, y: 56}
+      tessellationDetail: 0
+    - name: Batman_106
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2193
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.40363657, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.200012, y: 65}
+        - {x: -22.200012, y: 39}
+        - {x: -6.200012, y: 0}
+        - {x: 10.799988, y: 0}
+        - {x: 32.799988, y: 23}
+        - {x: 32.799988, y: 65}
+      tessellationDetail: 0
+    - name: Batman_107
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2193
+        width: 38
+        height: 66
+      alignment: 9
+      pivot: {x: 0.40906405, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.544434, y: 66}
+        - {x: -15.544434, y: 64}
+        - {x: -15.544434, y: 37}
+        - {x: -6.5444336, y: 0}
+        - {x: 5.4555664, y: 0}
+        - {x: 22.455566, y: 30}
+        - {x: 22.455566, y: 66}
+      tessellationDetail: 0
+    - name: Batman_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2179
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_109
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2179
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2179
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_111
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2113
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 53}
+        - {x: -13, y: 53}
+        - {x: -19, y: 49}
+        - {x: -19, y: 27}
+        - {x: -15, y: 10}
+        - {x: -11, y: 9}
+        - {x: -8, y: 11}
+        - {x: -3, y: 1}
+        - {x: -2, y: 0}
+        - {x: 5, y: 0}
+        - {x: 16, y: 12}
+        - {x: 19, y: 24}
+        - {x: 19, y: 48}
+      tessellationDetail: 0
+    - name: Batman_112
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2113
+        width: 52
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 53}
+        - {x: -26, y: 45}
+        - {x: -26, y: 5}
+        - {x: -18, y: 0}
+        - {x: 0, y: 0}
+        - {x: 26, y: 11}
+        - {x: 26, y: 53}
+      tessellationDetail: 0
+    - name: Batman_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2113
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 53}
+        - {x: -25.5, y: 48}
+        - {x: -25.5, y: 7}
+        - {x: -21.5, y: 0}
+        - {x: 0.5, y: 0}
+        - {x: 25.5, y: 35}
+        - {x: 25.5, y: 49}
+        - {x: 17.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2113
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 53}
+        - {x: -17.5, y: 49}
+        - {x: -17.5, y: 9}
+        - {x: -4.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 17.5, y: 26}
+        - {x: 17.5, y: 49}
+        - {x: 15.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_115
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2139
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2113
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 52}
+        - {x: -15, y: 45}
+        - {x: -18, y: 37}
+        - {x: -18, y: 7}
+        - {x: -17, y: 3}
+        - {x: -13, y: 5}
+        - {x: -11, y: 7}
+        - {x: -5, y: 0}
+        - {x: 2, y: 0}
+        - {x: 18, y: 20}
+        - {x: 18, y: 52}
+      tessellationDetail: 0
+    - name: Batman_117
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2113
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 53}
+        - {x: -22.5, y: 40}
+        - {x: -25.5, y: 30}
+        - {x: -25.5, y: 10}
+        - {x: -22.5, y: 5}
+        - {x: -15.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 25.5, y: 32}
+        - {x: 25.5, y: 50}
+        - {x: 13.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_118
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2113
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 50}
+        - {x: 7, y: 53}
+        - {x: -13, y: 53}
+        - {x: -23, y: 44}
+        - {x: -23, y: 11}
+        - {x: -14, y: 0}
+        - {x: 8, y: 0}
+        - {x: 23, y: 22}
+        - {x: 23, y: 45}
+        - {x: 22, y: 46}
+      tessellationDetail: 0
+    - name: Batman_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2113
+        width: 37
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 46}
+        - {x: 6.5, y: 53}
+        - {x: -11.5, y: 53}
+        - {x: -18.5, y: 45}
+        - {x: -18.5, y: 10}
+        - {x: -8.5, y: 0}
+        - {x: 3.5, y: 0}
+        - {x: 14.5, y: 10}
+        - {x: 14.5, y: 21}
+        - {x: 18.5, y: 29}
+      tessellationDetail: 0
+    - name: Batman_120
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2140
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_121
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2113
+        width: 31
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_122
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2113
+        width: 30
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_123
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2113
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 19.5, y: 11}
+        - {x: 19.5, y: 56}
+        - {x: -5.5, y: 56}
+        - {x: -17.5, y: 52}
+        - {x: -19.5, y: 43}
+      tessellationDetail: 0
+    - name: Batman_124
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2113
+        width: 63
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 59}
+        - {x: -31.5, y: 45}
+        - {x: -31.5, y: 20}
+        - {x: -30.5, y: 18}
+        - {x: -15.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 28.5, y: 8}
+        - {x: 31.5, y: 11}
+        - {x: 31.5, y: 59}
+      tessellationDetail: 0
+    - name: Batman_125
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2113
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 49}
+        - {x: -25, y: 44}
+        - {x: -25, y: 29}
+        - {x: -18, y: 28}
+        - {x: 1, y: 0}
+        - {x: 12, y: 0}
+        - {x: 25, y: 25}
+        - {x: 25, y: 48}
+        - {x: 20, y: 49}
+      tessellationDetail: 0
+    - name: Batman_126
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2113
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 52}
+        - {x: -5, y: 51}
+        - {x: -18, y: 38}
+        - {x: -22, y: 25}
+        - {x: -22, y: 13}
+        - {x: -3, y: 0}
+        - {x: 9, y: 0}
+        - {x: 22, y: 19}
+        - {x: 22, y: 45}
+        - {x: 20, y: 52}
+      tessellationDetail: 0
+    - name: Batman_127
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2113
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 59}
+        - {x: -20.5, y: 29}
+        - {x: -9.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 20.5, y: 6}
+        - {x: 20.5, y: 50}
+        - {x: 17.5, y: 59}
+      tessellationDetail: 0
+    - name: Batman_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2099
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_129
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2099
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2099
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2008
+        width: 51
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 43}
+        - {x: -25.5, y: 9}
+        - {x: -20.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 25.5, y: 17}
+        - {x: 25.5, y: 43}
+      tessellationDetail: 0
+    - name: Batman_132
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2008
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 50}
+        - {x: -26.5, y: 33}
+        - {x: -4.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 26.5, y: 12}
+        - {x: 26.5, y: 39}
+        - {x: 20.5, y: 50}
+      tessellationDetail: 0
+    - name: Batman_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2008
+        width: 35
+        height: 83
+      alignment: 9
+      pivot: {x: 0.61741245, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.609436, y: 83}
+        - {x: -21.609436, y: 30}
+        - {x: -16.609436, y: 0}
+        - {x: 13.390564, y: 0}
+        - {x: 13.390564, y: 83}
+      tessellationDetail: 0
+    - name: Batman_134
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2008
+        width: 34
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6174124, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.99202, y: 84}
+        - {x: -20.99202, y: 33}
+        - {x: -11.99202, y: 0}
+        - {x: 10.00798, y: 0}
+        - {x: 13.00798, y: 15}
+        - {x: 13.00798, y: 73}
+        - {x: 6.0079803, y: 84}
+      tessellationDetail: 0
+    - name: Batman_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2008
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.38417086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.4402, y: 53}
+        - {x: -18.4402, y: 36}
+        - {x: -2.4402008, y: 0}
+        - {x: 21.5598, y: 0}
+        - {x: 29.5598, y: 16}
+        - {x: 29.5598, y: 40}
+        - {x: 11.559799, y: 53}
+      tessellationDetail: 0
+    - name: Batman_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2008
+        width: 55
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 37}
+        - {x: -27.5, y: 20}
+        - {x: -5.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 27.5, y: 17}
+        - {x: 27.5, y: 37}
+      tessellationDetail: 0
+    - name: Batman_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1994
+        width: 42
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1994
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_139
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1846
+        width: 34
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 111}
+        - {x: -17, y: 76}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 111}
+      tessellationDetail: 0
+    - name: Batman_140
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1846
+        width: 34
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 126}
+        - {x: -1, y: 124}
+        - {x: -2, y: 118}
+        - {x: -17, y: 74}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 126}
+      tessellationDetail: 0
+    - name: Batman_141
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1846
+        width: 34
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 141}
+        - {x: -17, y: 79}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 141}
+      tessellationDetail: 0
+    - name: Batman_142
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1945
+        width: 13
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_143
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1846
+        width: 34
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 81}
+        - {x: 0, y: 78}
+        - {x: 0, y: 74}
+        - {x: 2, y: 72}
+        - {x: -1, y: 71}
+        - {x: -17, y: 47}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 81}
+      tessellationDetail: 0
+    - name: Batman_144
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1846
+        width: 34
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 96}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 96}
+      tessellationDetail: 0
+    - name: Batman_145
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1925
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_146
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1846
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 43}
+        - {x: 14, y: 46}
+      tessellationDetail: 0
+    - name: Batman_147
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1846
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 45}
+        - {x: -18, y: 36}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 39}
+        - {x: 16, y: 45}
+      tessellationDetail: 0
+    - name: Batman_148
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1846
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 51}
+        - {x: -18, y: 41}
+        - {x: -18, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 51}
+      tessellationDetail: 0
+    - name: Batman_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1846
+        width: 35
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 64}
+        - {x: -17.5, y: 43}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 64}
+      tessellationDetail: 0
+    - name: Batman_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1846
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 70}
+        - {x: -17.5, y: 57}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 69}
+        - {x: 16.5, y: 70}
+      tessellationDetail: 0
+    - name: Batman_151
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1846
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 69}
+        - {x: -17, y: 47}
+        - {x: -17, y: 2}
+        - {x: -15, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 69}
+      tessellationDetail: 0
+    - name: Batman_152
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1846
+        width: 35
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 64}
+        - {x: -17.5, y: 43}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 64}
+      tessellationDetail: 0
+    - name: Batman_153
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1832
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_154
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1832
+        width: 42
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_155
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1680
+        width: 34
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 96}
+        - {x: -3, y: 95}
+        - {x: -17, y: 50}
+        - {x: -17, y: 0}
+        - {x: 5, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 96}
+      tessellationDetail: 0
+    - name: Batman_156
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1680
+        width: 34
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 111}
+        - {x: -14, y: 102}
+        - {x: -17, y: 73}
+        - {x: -17, y: 0}
+        - {x: 13, y: 0}
+        - {x: 17, y: 1}
+        - {x: 17, y: 111}
+      tessellationDetail: 0
+    - name: Batman_157
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1680
+        width: 34
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 127}
+        - {x: -17, y: 86}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 125}
+        - {x: 15, y: 127}
+      tessellationDetail: 0
+    - name: Batman_158
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1680
+        width: 34
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 142}
+        - {x: -17, y: 90}
+        - {x: -17, y: 1}
+        - {x: -16, y: 0}
+        - {x: 15, y: 0}
+        - {x: 17, y: 5}
+        - {x: 17, y: 142}
+      tessellationDetail: 0
+    - name: Batman_159
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1680
+        width: 34
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 145}
+        - {x: -17, y: 127}
+        - {x: -17, y: 0}
+        - {x: 14, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 145}
+      tessellationDetail: 0
+    - name: Batman_160
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1774
+        width: 13
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_161
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1680
+        width: 34
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 81}
+        - {x: -17, y: 73}
+        - {x: -17, y: 0}
+        - {x: 11, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 81}
+      tessellationDetail: 0
+    - name: Batman_162
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1754
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_163
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1680
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -17, y: 43}
+        - {x: -17, y: 3}
+        - {x: -13, y: 0}
+        - {x: 7, y: 0}
+        - {x: 17, y: 6}
+        - {x: 17, y: 51}
+      tessellationDetail: 0
+    - name: Batman_164
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1680
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 50}
+        - {x: -9, y: 50}
+        - {x: -13, y: 49}
+        - {x: -18, y: 42}
+        - {x: -18, y: 6}
+        - {x: -12, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 42}
+      tessellationDetail: 0
+    - name: Batman_165
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1680
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 55}
+        - {x: -13, y: 54}
+        - {x: -18, y: 42}
+        - {x: -18, y: 11}
+        - {x: -13, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 3}
+        - {x: 18, y: 52}
+        - {x: 17, y: 55}
+      tessellationDetail: 0
+    - name: Batman_166
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1680
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 68}
+        - {x: -17.5, y: 54}
+        - {x: -17.5, y: 5}
+        - {x: -5.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 17.5, y: 8}
+        - {x: 17.5, y: 68}
+      tessellationDetail: 0
+    - name: Batman_167
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1680
+        width: 35
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 74}
+        - {x: -3.5, y: 72}
+        - {x: -3.5, y: 61}
+        - {x: -17.5, y: 45}
+        - {x: -17.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 17.5, y: 1}
+        - {x: 17.5, y: 72}
+        - {x: 16.5, y: 74}
+      tessellationDetail: 0
+    - name: Batman_168
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1680
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 73}
+        - {x: -17, y: 43}
+        - {x: -17, y: 4}
+        - {x: -12, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 73}
+      tessellationDetail: 0
+    - name: Batman_169
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1680
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 68}
+        - {x: -17.5, y: 54}
+        - {x: -17.5, y: 5}
+        - {x: -5.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 17.5, y: 8}
+        - {x: 17.5, y: 68}
+      tessellationDetail: 0
+    - name: Batman_170
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1680
+        width: 35
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 52}
+        - {x: -10.5, y: 52}
+        - {x: -17.5, y: 48}
+        - {x: -17.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 17.5, y: 15}
+        - {x: 17.5, y: 39}
+        - {x: 12.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_171
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1666
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_172
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1666
+        width: 42
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_173
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1514
+        width: 48
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 99}
+        - {x: -24, y: 64}
+        - {x: -24, y: 33}
+        - {x: 0, y: 0}
+        - {x: 13, y: 0}
+        - {x: 24, y: 3}
+        - {x: 24, y: 107}
+        - {x: 9, y: 107}
+        - {x: 7, y: 104}
+      tessellationDetail: 0
+    - name: Batman_174
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1514
+        width: 48
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 122}
+        - {x: 10, y: 122}
+        - {x: 7, y: 119}
+        - {x: 5, y: 114}
+        - {x: -24, y: 65}
+        - {x: -24, y: 33}
+        - {x: 0, y: 0}
+        - {x: 8, y: 0}
+        - {x: 9, y: 1}
+        - {x: 24, y: 15}
+        - {x: 24, y: 119}
+      tessellationDetail: 0
+    - name: Batman_175
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1514
+        width: 52
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 11}
+        - {x: -14, y: 0}
+        - {x: 14, y: 0}
+        - {x: 26, y: 7}
+        - {x: 26, y: 137}
+        - {x: -13, y: 137}
+        - {x: -26, y: 126}
+      - - {x: 11, y: 56}
+        - {x: 11, y: 59}
+        - {x: 9, y: 60}
+        - {x: 11, y: 58}
+        - {x: 11, y: 55}
+        - {x: 12, y: 55}
+      tessellationDetail: 0
+    - name: Batman_176
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1614
+        width: 13
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_177
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1514
+        width: 45
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 92}
+        - {x: -22.5, y: 62}
+        - {x: -22.5, y: 28}
+        - {x: -3.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 22.5, y: 12}
+        - {x: 22.5, y: 92}
+      tessellationDetail: 0
+    - name: Batman_178
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1594
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_179
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1514
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 59}
+        - {x: -22, y: 28}
+        - {x: -12, y: 0}
+        - {x: 11, y: 0}
+        - {x: 22, y: 5}
+        - {x: 22, y: 49}
+        - {x: 19, y: 59}
+      tessellationDetail: 0
+    - name: Batman_180
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1514
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 59}
+        - {x: -19, y: 23}
+        - {x: -8, y: 0}
+        - {x: 12, y: 0}
+        - {x: 19, y: 2}
+        - {x: 19, y: 59}
+      tessellationDetail: 0
+    - name: Batman_181
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1514
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 59}
+        - {x: -18.5, y: 19}
+        - {x: -11.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 18.5, y: 15}
+        - {x: 18.5, y: 54}
+        - {x: 13.5, y: 59}
+      tessellationDetail: 0
+    - name: Batman_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1514
+        width: 37
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 68}
+        - {x: -18.5, y: 18}
+        - {x: -11.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 68}
+      tessellationDetail: 0
+    - name: Batman_183
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1514
+        width: 42
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 74}
+        - {x: 0, y: 72}
+        - {x: -21, y: 62}
+        - {x: -21, y: 40}
+        - {x: -20, y: 38}
+        - {x: -16, y: 28}
+        - {x: -15, y: 25}
+        - {x: -5, y: 1}
+        - {x: -3, y: 0}
+        - {x: 5, y: 0}
+        - {x: 21, y: 11}
+        - {x: 21, y: 72}
+        - {x: 20, y: 74}
+      tessellationDetail: 0
+    - name: Batman_184
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1514
+        width: 45
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 77}
+        - {x: -22.5, y: 66}
+        - {x: -22.5, y: 13}
+        - {x: -6.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 77}
+      tessellationDetail: 0
+    - name: Batman_185
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1514
+        width: 52
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 68}
+        - {x: -26, y: 38}
+        - {x: -8, y: 0}
+        - {x: 13, y: 0}
+        - {x: 26, y: 9}
+        - {x: 26, y: 68}
+      - - {x: 11, y: 56}
+        - {x: 11, y: 59}
+        - {x: 9, y: 60}
+        - {x: 11, y: 58}
+        - {x: 11, y: 55}
+        - {x: 12, y: 55}
+      tessellationDetail: 0
+    - name: Batman_186
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1513
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 50}
+        - {x: -27.5, y: 50}
+        - {x: -27.5, y: 23}
+        - {x: -16.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 27.5, y: 12}
+        - {x: 27.5, y: 46}
+        - {x: 26.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_187
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1499
+        width: 45
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_188
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1499
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_189
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1499
+        width: 39
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_190
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1499
+        width: 45
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_191
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1499
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_192
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1439
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_193
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1443
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_194
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1442
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 50}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 39}
+        - {x: 9.5, y: 50}
+      tessellationDetail: 0
+    - name: Batman_195
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1436
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 56}
+        - {x: -18.5, y: 3}
+        - {x: -13.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 5}
+        - {x: 18.5, y: 26}
+        - {x: 7.5, y: 56}
+      tessellationDetail: 0
+    - name: Batman_196
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1432
+        width: 32
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 60}
+        - {x: -16, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 6}
+        - {x: 16, y: 33}
+        - {x: 11, y: 60}
+      tessellationDetail: 0
+    - name: Batman_197
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1432
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_198
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1432
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_199
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1432
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_200
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1432
+        width: 26
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_201
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1433
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_202
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1434
+        width: 28
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_203
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1435
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_204
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1437
+        width: 28
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_205
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1435
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_206
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1434
+        width: 31
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_207
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1434
+        width: 33
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 58}
+        - {x: -16.5, y: 50}
+        - {x: -16.5, y: 3}
+        - {x: -14.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 14.5, y: 5}
+        - {x: 16.5, y: 18}
+        - {x: 16.5, y: 58}
+      tessellationDetail: 0
+    - name: Batman_208
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1434
+        width: 34
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 58}
+        - {x: -17, y: 51}
+        - {x: -17, y: 5}
+        - {x: -15, y: 0}
+        - {x: 4, y: 0}
+        - {x: 10, y: 4}
+        - {x: 17, y: 42}
+        - {x: 17, y: 58}
+      tessellationDetail: 0
+    - name: Batman_209
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1434
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 58}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 58}
+      tessellationDetail: 0
+    - name: Batman_210
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1433
+        width: 25
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_211
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1418
+        width: 42
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_212
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1418
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_213
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1343
+        width: 26
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_214
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1344
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_215
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1358
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 41}
+        - {x: -18, y: 22}
+        - {x: -18, y: 0}
+        - {x: 9, y: 0}
+        - {x: 18, y: 9}
+        - {x: 18, y: 41}
+      tessellationDetail: 0
+    - name: Batman_216
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1365
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 34}
+        - {x: -19.5, y: 26}
+        - {x: -19.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 17.5, y: 2}
+        - {x: 19.5, y: 10}
+        - {x: 19.5, y: 34}
+      tessellationDetail: 0
+    - name: Batman_217
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1364
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 35}
+        - {x: 12, y: 33}
+        - {x: 8, y: 35}
+        - {x: -4, y: 35}
+        - {x: -4, y: 28}
+        - {x: -23, y: 24}
+        - {x: -23, y: 11}
+        - {x: -11, y: 0}
+        - {x: 16, y: 0}
+        - {x: 23, y: 13}
+        - {x: 23, y: 35}
+      tessellationDetail: 0
+    - name: Batman_218
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1346
+        width: 46
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 53}
+        - {x: -23, y: 46}
+        - {x: -23, y: 18}
+        - {x: -13, y: 0}
+        - {x: 16, y: 0}
+        - {x: 23, y: 6}
+        - {x: 23, y: 53}
+      tessellationDetail: 0
+    - name: Batman_219
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1365
+        width: 46
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 43}
+        - {x: -23, y: 26}
+        - {x: -23, y: 0}
+        - {x: 21, y: 0}
+        - {x: 23, y: 1}
+        - {x: 23, y: 43}
+      tessellationDetail: 0
+    - name: Batman_220
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1334
+        width: 32
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 70}
+        - {x: 8, y: 77}
+        - {x: -10, y: 77}
+        - {x: -16, y: 66}
+        - {x: -16, y: 4}
+        - {x: -14, y: 0}
+        - {x: 11, y: 0}
+        - {x: 13, y: 3}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+    - name: Batman_221
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1347
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 0}
+        - {x: 16, y: 2}
+        - {x: 16, y: 55}
+        - {x: 15, y: 64}
+        - {x: -16, y: 64}
+        - {x: -16, y: 1}
+        - {x: -15, y: 0}
+        - {x: -5, y: 0}
+        - {x: -4, y: 5}
+        - {x: -3, y: 3}
+        - {x: -1, y: 0}
+      tessellationDetail: 0
+    - name: Batman_222
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1352
+        width: 48
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 49}
+        - {x: -24, y: 5}
+        - {x: -14, y: 0}
+        - {x: 4, y: 0}
+        - {x: 11, y: 8}
+        - {x: 24, y: 31}
+        - {x: 24, y: 49}
+      - - {x: -2, y: 15}
+        - {x: -3, y: 13}
+      tessellationDetail: 0
+    - name: Batman_223
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1358
+        width: 42
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 53}
+        - {x: -21, y: 46}
+        - {x: -21, y: 0}
+        - {x: 7, y: 0}
+        - {x: 21, y: 10}
+        - {x: 21, y: 53}
+      tessellationDetail: 0
+    - name: Batman_224
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1364
+        width: 55
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 47}
+        - {x: -27.5, y: 44}
+        - {x: -27.5, y: 34}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 27.5, y: 12}
+        - {x: 27.5, y: 47}
+      tessellationDetail: 0
+    - name: Batman_225
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1320
+        width: 49
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_226
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1256
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 49}
+        - {x: -16.5, y: 41}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 46}
+        - {x: 9.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_227
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1256
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 48}
+        - {x: -16.5, y: 44}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 44}
+        - {x: 13.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_228
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1256
+        width: 36
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 28}
+        - {x: 17, y: 38}
+        - {x: 5, y: 51}
+        - {x: -3, y: 53}
+        - {x: -14, y: 53}
+        - {x: -18, y: 42}
+        - {x: -18, y: 11}
+        - {x: -15, y: 0}
+        - {x: -2, y: 0}
+        - {x: -2, y: 1}
+        - {x: 3, y: 0}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+    - name: Batman_229
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1303
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_230
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1256
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 57}
+        - {x: -22.5, y: 15}
+        - {x: -22.5, y: 9}
+        - {x: -13.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 57}
+      tessellationDetail: 0
+    - name: Batman_231
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1256
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 51}
+        - {x: 5.5, y: 55}
+        - {x: -16.5, y: 55}
+        - {x: -22.5, y: 33}
+        - {x: -22.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 22.5, y: 13}
+        - {x: 22.5, y: 26}
+      tessellationDetail: 0
+    - name: Batman_232
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1256
+        width: 44
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 13}
+        - {x: 22, y: 34}
+        - {x: 10, y: 48}
+        - {x: 3, y: 54}
+        - {x: -9, y: 54}
+        - {x: -22, y: 35}
+        - {x: -22, y: 0}
+        - {x: 10, y: 0}
+        - {x: 10, y: 2}
+        - {x: 17, y: 6}
+      tessellationDetail: 0
+    - name: Batman_233
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1256
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 43}
+        - {x: 11.5, y: 49}
+        - {x: -5.5, y: 49}
+        - {x: -14.5, y: 38}
+        - {x: -18.5, y: 31}
+        - {x: -19.5, y: 23}
+        - {x: -19.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 19.5, y: 11}
+        - {x: 19.5, y: 29}
+      tessellationDetail: 0
+    - name: Batman_234
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1256
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -19, y: 43}
+        - {x: -19, y: 0}
+        - {x: 16, y: 0}
+        - {x: 19, y: 8}
+        - {x: 19, y: 39}
+        - {x: 5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_235
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1256
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 47}
+        - {x: -19.5, y: 39}
+        - {x: -19.5, y: 6}
+        - {x: -18.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 28}
+        - {x: 17.5, y: 38}
+        - {x: 10.5, y: 47}
+      tessellationDetail: 0
+    - name: Batman_236
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1256
+        width: 43
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 43}
+        - {x: 14.5, y: 46}
+        - {x: -12.5, y: 46}
+        - {x: -20.5, y: 33}
+        - {x: -21.5, y: 28}
+        - {x: -21.5, y: 4}
+        - {x: -14.5, y: 0}
+        - {x: 21.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_237
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1256
+        width: 55
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 47}
+        - {x: -5.5, y: 47}
+        - {x: -18.5, y: 38}
+        - {x: -27.5, y: 21}
+        - {x: -27.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 20.5, y: 4}
+        - {x: 27.5, y: 35}
+      tessellationDetail: 0
+    - name: Batman_238
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1278
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_239
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1278
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_240
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1278
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_241
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1279
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_242
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1278
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_243
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1278
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_244
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1278
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_245
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1279
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_246
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1191
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 0}
+        - {x: 17, y: 46}
+        - {x: 11, y: 57}
+        - {x: 3, y: 57}
+        - {x: -16, y: 35}
+        - {x: -17, y: 32}
+        - {x: -17, y: 0}
+        - {x: -6, y: 0}
+        - {x: -6, y: 2}
+        - {x: -1, y: 8}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+    - name: Batman_247
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1191
+        width: 36
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 54}
+        - {x: -5, y: 54}
+        - {x: -18, y: 39}
+        - {x: -18, y: 0}
+        - {x: -5, y: 0}
+        - {x: -5, y: 2}
+        - {x: 1, y: 0}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+    - name: Batman_248
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1191
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 54}
+        - {x: -19, y: 44}
+        - {x: -21, y: 28}
+        - {x: -21, y: 0}
+        - {x: 21, y: 0}
+        - {x: 21, y: 51}
+        - {x: 19, y: 54}
+      tessellationDetail: 0
+    - name: Batman_249
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1191
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 48}
+        - {x: -12.5, y: 39}
+        - {x: -22.5, y: 16}
+        - {x: -22.5, y: 4}
+        - {x: -16.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 22.5, y: 3}
+        - {x: 22.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_250
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1191
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 49}
+        - {x: -13, y: 44}
+        - {x: -19, y: 27}
+        - {x: -19, y: 1}
+        - {x: -18, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 48}
+        - {x: 18, y: 49}
+      tessellationDetail: 0
+    - name: Batman_251
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1191
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25}
+        - {x: -17.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 39}
+        - {x: 13.5, y: 49}
+        - {x: -3.5, y: 49}
+        - {x: -8.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_252
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1191
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 49}
+        - {x: -17, y: 42}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 42}
+        - {x: 14, y: 49}
+      tessellationDetail: 0
+    - name: Batman_253
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1177
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_254
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1177
+        width: 49
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_255
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1109
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 53}
+        - {x: -16, y: 47}
+        - {x: -16, y: 2}
+        - {x: -10, y: 0}
+        - {x: 6, y: 0}
+        - {x: 16, y: 9}
+        - {x: 16, y: 49}
+        - {x: 7, y: 53}
+      tessellationDetail: 0
+    - name: Batman_256
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1109
+        width: 31
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_257
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1109
+        width: 33
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 57}
+        - {x: -13.5, y: 57}
+        - {x: -16.5, y: 55}
+        - {x: -16.5, y: 12}
+        - {x: -9.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 43}
+        - {x: 6.5, y: 55}
+      tessellationDetail: 0
+    - name: Batman_258
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1160
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_259
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1109
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 61}
+        - {x: 1.5, y: 61}
+        - {x: -22.5, y: 33}
+        - {x: -22.5, y: 10}
+        - {x: -10.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 22.5, y: 14}
+        - {x: 22.5, y: 57}
+      tessellationDetail: 0
+    - name: Batman_260
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1109
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 59}
+        - {x: -22, y: 46}
+        - {x: -22, y: 6}
+        - {x: -15, y: 0}
+        - {x: 3, y: 0}
+        - {x: 22, y: 10}
+        - {x: 22, y: 43}
+        - {x: 4, y: 59}
+      tessellationDetail: 0
+    - name: Batman_261
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1109
+        width: 39
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 15}
+        - {x: -15.5, y: 0}
+        - {x: -0.5, y: 0}
+        - {x: 19.5, y: 11}
+        - {x: 19.5, y: 34}
+        - {x: 9.5, y: 58}
+        - {x: -14.5, y: 58}
+        - {x: -19.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_262
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1109
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 53}
+        - {x: -17.5, y: 44}
+        - {x: -17.5, y: 6}
+        - {x: -9.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_263
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1109
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 52}
+        - {x: -18, y: 43}
+        - {x: -18, y: 12}
+        - {x: -15, y: 0}
+        - {x: 8, y: 0}
+        - {x: 18, y: 4}
+        - {x: 18, y: 39}
+        - {x: 3, y: 52}
+      tessellationDetail: 0
+    - name: Batman_264
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1109
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 51}
+        - {x: -17, y: 44}
+        - {x: -17, y: 14}
+        - {x: -3, y: 0}
+        - {x: 9, y: 0}
+        - {x: 17, y: 3}
+        - {x: 17, y: 49}
+        - {x: 14, y: 51}
+      tessellationDetail: 0
+    - name: Batman_265
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1109
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 49}
+        - {x: -18.5, y: 37}
+        - {x: -18.5, y: 5}
+        - {x: -11.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 18.5, y: 8}
+        - {x: 18.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_266
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1109
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 51}
+        - {x: -27.5, y: 24}
+        - {x: -27.5, y: 9}
+        - {x: -1.5, y: 0}
+        - {x: 8.5, y: 0}
+        - {x: 20.5, y: 7}
+        - {x: 27.5, y: 37}
+        - {x: 27.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_267
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1095
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_268
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1095
+        width: 49
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_269
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1027
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 59}
+        - {x: -22, y: 30}
+        - {x: -11, y: 0}
+        - {x: 9, y: 0}
+        - {x: 22, y: 13}
+        - {x: 22, y: 46}
+        - {x: 11, y: 59}
+      tessellationDetail: 0
+    - name: Batman_270
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1027
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 59}
+        - {x: -20.5, y: 41}
+        - {x: -4.5, y: 1}
+        - {x: -2.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 20.5, y: 5}
+        - {x: 20.5, y: 56}
+        - {x: 19.5, y: 59}
+      tessellationDetail: 0
+    - name: Batman_271
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1027
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 58}
+        - {x: -18.5, y: 58}
+        - {x: -18.5, y: 20}
+        - {x: -14.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 18.5, y: 13}
+        - {x: 18.5, y: 36}
+        - {x: 16.5, y: 56}
+      tessellationDetail: 0
+    - name: Batman_272
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1027
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 58}
+        - {x: -18, y: 58}
+        - {x: -18, y: 20}
+        - {x: -7, y: 0}
+        - {x: 4, y: 0}
+        - {x: 18, y: 13}
+        - {x: 18, y: 38}
+      tessellationDetail: 0
+    - name: Batman_273
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1058
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_274
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1027
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 24}
+        - {x: -7.5, y: 0}
+        - {x: 2.5, y: 0}
+        - {x: 17.5, y: 10}
+        - {x: 17.5, y: 42}
+        - {x: 14.5, y: 59}
+        - {x: -15.5, y: 59}
+        - {x: -17.5, y: 56}
+      tessellationDetail: 0
+    - name: Batman_275
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1027
+        width: 51
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 60}
+        - {x: -25.5, y: 59}
+        - {x: -25.5, y: 40}
+        - {x: -4.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 25.5, y: 16}
+        - {x: 25.5, y: 60}
+      tessellationDetail: 0
+    - name: Batman_276
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1027
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 61}
+        - {x: -24.5, y: 28}
+        - {x: -17.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 24.5, y: 17}
+        - {x: 24.5, y: 61}
+      tessellationDetail: 0
+    - name: Batman_277
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1027
+        width: 51
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 28}
+        - {x: -7.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 25.5, y: 13}
+        - {x: 25.5, y: 47}
+        - {x: 24.5, y: 58}
+        - {x: -3.5, y: 58}
+        - {x: -25.5, y: 54}
+      tessellationDetail: 0
+    - name: Batman_278
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1027
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 57}
+        - {x: -20.5, y: 50}
+        - {x: -22.5, y: 45}
+        - {x: -22.5, y: 31}
+        - {x: -4.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 22.5, y: 14}
+        - {x: 22.5, y: 56}
+        - {x: 19.5, y: 57}
+      tessellationDetail: 0
+    - name: Batman_279
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1027
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 57}
+        - {x: -26, y: 56}
+        - {x: -26, y: 25}
+        - {x: -11, y: 0}
+        - {x: 7, y: 0}
+        - {x: 26, y: 12}
+        - {x: 26, y: 57}
+      tessellationDetail: 0
+    - name: Batman_280
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1027
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 58}
+        - {x: -28.5, y: 55}
+        - {x: -28.5, y: 36}
+        - {x: -6.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 28.5, y: 9}
+        - {x: 28.5, y: 46}
+        - {x: 12.5, y: 58}
+      tessellationDetail: 0
+    - name: Batman_281
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1013
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_282
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 951
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 48}
+        - {x: -11.5, y: 47}
+        - {x: -16.5, y: 37}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 40}
+        - {x: 9.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_283
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 951
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 47}
+        - {x: -17, y: 37}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 47}
+      tessellationDetail: 0
+    - name: Batman_284
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 951
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 23}
+        - {x: 10.5, y: 49}
+        - {x: -11.5, y: 49}
+        - {x: -16.5, y: 47}
+      tessellationDetail: 0
+    - name: Batman_285
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 951
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 53}
+        - {x: -16.5, y: 51}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 39}
+        - {x: 2.5, y: 53}
+      tessellationDetail: 0
+    - name: Batman_286
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 951
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 39}
+        - {x: 8, y: 55}
+        - {x: -16, y: 55}
+        - {x: -18, y: 54}
+        - {x: -18, y: 3}
+        - {x: -17, y: 0}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+    - name: Batman_287
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 951
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_288
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 951
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 9}
+        - {x: 21.5, y: 11}
+        - {x: 21.5, y: 28}
+        - {x: 13.5, y: 43}
+        - {x: -12.5, y: 43}
+        - {x: -21.5, y: 38}
+        - {x: -21.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 12.5, y: 13}
+        - {x: 12.5, y: 15}
+        - {x: 12.5, y: 14}
+      tessellationDetail: 0
+    - name: Batman_289
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 951
+        width: 50
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 41}
+        - {x: -25, y: 36}
+        - {x: -25, y: 11}
+        - {x: -23, y: 0}
+        - {x: 25, y: 0}
+        - {x: 25, y: 34}
+        - {x: 22, y: 41}
+      tessellationDetail: 0
+    - name: Batman_290
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 951
+        width: 47
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 41}
+        - {x: -23.5, y: 39}
+        - {x: -23.5, y: 18}
+        - {x: -20.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 38}
+        - {x: 20.5, y: 41}
+      tessellationDetail: 0
+    - name: Batman_291
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 951
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 43}
+        - {x: -14.5, y: 43}
+        - {x: -23.5, y: 40}
+        - {x: -23.5, y: 14}
+        - {x: -20.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 36}
+      tessellationDetail: 0
+    - name: Batman_292
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 951
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 43}
+        - {x: -25, y: 34}
+        - {x: -25, y: 17}
+        - {x: -13, y: 0}
+        - {x: 25, y: 0}
+        - {x: 25, y: 32}
+        - {x: 20, y: 43}
+      tessellationDetail: 0
+    - name: Batman_293
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 951
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 46}
+        - {x: -22, y: 38}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 46}
+      tessellationDetail: 0
+    - name: Batman_294
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 913
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_295
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 913
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_296
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 910
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_297
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 911
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_298
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 912
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_299
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 914
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_300
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 896
+        width: 63
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_301
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 896
+        width: 46
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 40}
+        - {x: -20, y: 23}
+        - {x: -22, y: 20}
+        - {x: -15, y: 10}
+        - {x: -17, y: 9}
+        - {x: -18, y: 13}
+        - {x: -19, y: 16}
+        - {x: -21, y: 16}
+        - {x: -23, y: 14}
+        - {x: -23, y: 0}
+        - {x: 23, y: 0}
+        - {x: 23, y: 35}
+        - {x: 21, y: 40}
+      tessellationDetail: 0
+    - name: Batman_302
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 896
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 46}
+        - {x: -12.5, y: 40}
+        - {x: -21.5, y: 26}
+        - {x: -26.5, y: 17}
+        - {x: -20.5, y: 15}
+        - {x: -17.5, y: 10}
+        - {x: -20.5, y: 14}
+        - {x: -22.5, y: 16}
+        - {x: -24.5, y: 16}
+        - {x: -27.5, y: 14}
+        - {x: -27.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 44}
+        - {x: 13.5, y: 46}
+      - - {x: 23.5, y: 8}
+        - {x: 23.5, y: 5}
+        - {x: 25.5, y: 3}
+        - {x: 27.5, y: 3}
+        - {x: 27.5, y: 10}
+        - {x: 25.5, y: 10}
+      - - {x: -13.5, y: 16}
+        - {x: -16.5, y: 19}
+        - {x: -16.5, y: 20}
+        - {x: -18.5, y: 21}
+        - {x: -16.5, y: 18}
+        - {x: -14.5, y: 18}
+        - {x: -13.5, y: 19}
+        - {x: -14.5, y: 17}
+        - {x: -11.5, y: 13}
+        - {x: -9.5, y: 10}
+        - {x: -9.5, y: 11}
+      - - {x: 20.5, y: 15}
+        - {x: 22.5, y: 13}
+        - {x: 25.5, y: 14}
+        - {x: 27.5, y: 20}
+        - {x: 24.5, y: 22}
+        - {x: 21.5, y: 19}
+      tessellationDetail: 0
+    - name: Batman_303
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 896
+        width: 59
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 46}
+        - {x: -5.5, y: 46}
+        - {x: -14.5, y: 37}
+        - {x: -15.5, y: 34}
+        - {x: -15.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 24.5, y: 1}
+        - {x: 24.5, y: 5}
+        - {x: 19.5, y: 42}
+      - - {x: -22.5, y: 14}
+        - {x: -29.5, y: 14}
+        - {x: -29.5, y: 3}
+        - {x: -23.5, y: 1}
+        - {x: -18.5, y: 1}
+        - {x: -16.5, y: 3}
+        - {x: -15.5, y: 7}
+        - {x: -18.5, y: 12}
+      - - {x: 14.5, y: 7}
+        - {x: 16.5, y: 5}
+        - {x: 14.5, y: 5}
+      - - {x: 26.5, y: 11}
+        - {x: 24.5, y: 9}
+        - {x: 24.5, y: 7}
+        - {x: 27.5, y: 4}
+        - {x: 29.5, y: 5}
+        - {x: 29.5, y: 10}
+        - {x: 28.5, y: 11}
+      - - {x: -23.5, y: 12}
+        - {x: -20.5, y: 13}
+        - {x: -20.5, y: 16}
+        - {x: -23.5, y: 17}
+        - {x: -25.5, y: 15}
+      - - {x: 23.5, y: 18}
+        - {x: 25.5, y: 16}
+        - {x: 28.5, y: 17}
+        - {x: 28.5, y: 20}
+        - {x: 26.5, y: 22}
+        - {x: 23.5, y: 21}
+      - - {x: -22.5, y: 19}
+        - {x: -20.5, y: 17}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: 21}
+        - {x: -19.5, y: 23}
+        - {x: -22.5, y: 22}
+      tessellationDetail: 0
+    - name: Batman_304
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 896
+        width: 61
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 46}
+        - {x: -22.5, y: 40}
+        - {x: -22.5, y: 22}
+        - {x: -17.5, y: 8}
+        - {x: -11.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 12.5, y: 10}
+        - {x: 12.5, y: 46}
+      - - {x: 11.5, y: 7}
+        - {x: 10.5, y: 6}
+        - {x: 10.5, y: 1}
+        - {x: 15.5, y: 1}
+        - {x: 16.5, y: 3}
+        - {x: 16.5, y: 6}
+        - {x: 14.5, y: 7}
+      - - {x: 26.5, y: 9}
+        - {x: 26.5, y: 7}
+        - {x: 28.5, y: 5}
+        - {x: 30.5, y: 5}
+        - {x: 30.5, y: 11}
+        - {x: 28.5, y: 11}
+      - - {x: -30.5, y: 6}
+        - {x: -28.5, y: 6}
+        - {x: -26.5, y: 8}
+        - {x: -27.5, y: 11}
+        - {x: -30.5, y: 11}
+      - - {x: -22.5, y: 8}
+        - {x: -19.5, y: 9}
+        - {x: -19.5, y: 12}
+        - {x: -22.5, y: 13}
+        - {x: -24.5, y: 11}
+      - - {x: 23.5, y: 11}
+        - {x: 26.5, y: 12}
+        - {x: 26.5, y: 15}
+        - {x: 23.5, y: 16}
+        - {x: 21.5, y: 14}
+      tessellationDetail: 0
+    - name: Batman_305
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 896
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_306
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 896
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_307
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 896
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_308
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 896
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_309
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 913
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_310
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 918
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_311
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 910
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_312
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 896
+        width: 50
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_313
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 909
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_314
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 908
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_315
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 911
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_316
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 902
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_317
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 897
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_318
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 903
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_319
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 905
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_320
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 902
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_321
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 901
+        width: 21
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_322
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 903
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_323
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 904
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_324
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 899
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_325
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 900
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_326
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 899
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_327
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 896
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_328
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 45
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_329
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 881
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_330
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 625
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -312.5, y: 80}
+        - {x: -312.5, y: 0}
+        - {x: 312.5, y: 0}
+        - {x: 312.5, y: 80}
+      tessellationDetail: 0
+    - name: Batman_331
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 45
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_332
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 780
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_333
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 539
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -269.5, y: 54}
+        - {x: -269.5, y: 0}
+        - {x: 269.5, y: 0}
+        - {x: 269.5, y: 54}
+      tessellationDetail: 0
+    - name: Batman_334
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 47
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_335
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 461
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -230.5, y: 49}
+        - {x: -230.5, y: 0}
+        - {x: 230.5, y: 0}
+        - {x: 230.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_336
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 55
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_337
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 566
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 51}
+        - {x: -20.5, y: 40}
+        - {x: -20.5, y: 2}
+        - {x: -19.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 20.5, y: 2}
+        - {x: 20.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_338
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 566
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 50}
+        - {x: -22.5, y: 39}
+        - {x: -22.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 22.5, y: 3}
+        - {x: 22.5, y: 39}
+        - {x: 12.5, y: 50}
+      tessellationDetail: 0
+    - name: Batman_339
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 566
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 52}
+        - {x: -19, y: 45}
+        - {x: -22, y: 40}
+        - {x: -22, y: 0}
+        - {x: 13, y: 0}
+        - {x: 22, y: 5}
+        - {x: 22, y: 39}
+        - {x: 1, y: 52}
+      tessellationDetail: 0
+    - name: Batman_340
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 566
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 25}
+        - {x: 21.5, y: 41}
+        - {x: 5.5, y: 51}
+        - {x: -21.5, y: 51}
+        - {x: -21.5, y: 0}
+        - {x: -8.5, y: 0}
+        - {x: -8.5, y: 2}
+        - {x: -5.5, y: 0}
+        - {x: 10.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_341
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 566
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 51}
+        - {x: -21.5, y: 41}
+        - {x: -21.5, y: 4}
+        - {x: -19.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 21.5, y: 5}
+        - {x: 21.5, y: 37}
+        - {x: 0.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_342
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 566
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 51}
+        - {x: -21.5, y: 46}
+        - {x: -21.5, y: 3}
+        - {x: -20.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 21.5, y: 22}
+        - {x: 21.5, y: 39}
+        - {x: 10.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_343
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 566
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 51}
+        - {x: -21.5, y: 47}
+        - {x: -21.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 21.5, y: 8}
+        - {x: 21.5, y: 40}
+        - {x: 7.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_344
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 566
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 51}
+        - {x: -21.5, y: 47}
+        - {x: -21.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 21.5, y: 24}
+        - {x: 21.5, y: 40}
+        - {x: 6.5, y: 51}
+      tessellationDetail: 0
+    - name: Batman_345
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 552
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_346
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 552
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_347
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 552
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_348
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 492
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 48}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_349
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 492
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 48}
+        - {x: -19.5, y: 39}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 41}
+        - {x: 16.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_350
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 492
+        width: 63
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 2}
+        - {x: -30.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 31.5, y: 1}
+        - {x: 31.5, y: 23}
+        - {x: 27.5, y: 35}
+        - {x: -24.5, y: 35}
+        - {x: -31.5, y: 30}
+      tessellationDetail: 0
+    - name: Batman_351
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 492
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 40}
+        - {x: -20, y: 10}
+        - {x: -10, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 34}
+        - {x: 13, y: 40}
+      tessellationDetail: 0
+    - name: Batman_352
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 492
+        width: 41
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_353
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 492
+        width: 39
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 36}
+        - {x: -19.5, y: 2}
+        - {x: -16.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 30}
+        - {x: 14.5, y: 36}
+      tessellationDetail: 0
+    - name: Batman_354
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 492
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 0}
+        - {x: 16.5, y: 2}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 39}
+        - {x: 12.5, y: 49}
+        - {x: -6.5, y: 49}
+        - {x: -17.5, y: 44}
+        - {x: -17.5, y: 0}
+        - {x: -5.5, y: 0}
+        - {x: -5.5, y: 2}
+        - {x: -2.5, y: 5}
+        - {x: 1.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_355
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 492
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 48}
+        - {x: -26, y: 46}
+        - {x: -26, y: 0}
+        - {x: 19, y: 0}
+        - {x: 26, y: 15}
+        - {x: 26, y: 35}
+        - {x: 15, y: 48}
+      tessellationDetail: 0
+    - name: Batman_356
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 492
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 53}
+        - {x: -27, y: 45}
+        - {x: -27, y: 10}
+        - {x: -25, y: 0}
+        - {x: 24, y: 0}
+        - {x: 27, y: 7}
+        - {x: 27, y: 41}
+        - {x: 18, y: 53}
+      tessellationDetail: 0
+    - name: Batman_357
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 492
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 49}
+        - {x: -27, y: 45}
+        - {x: -27, y: 13}
+        - {x: -21, y: 0}
+        - {x: 16, y: 0}
+        - {x: 27, y: 29}
+        - {x: 27, y: 37}
+        - {x: 16, y: 49}
+      tessellationDetail: 0
+    - name: Batman_358
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 492
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 48}
+        - {x: -22, y: 38}
+        - {x: -22, y: 5}
+        - {x: -18, y: 0}
+        - {x: 20, y: 0}
+        - {x: 22, y: 5}
+        - {x: 22, y: 39}
+        - {x: 13, y: 48}
+      tessellationDetail: 0
+    - name: Batman_359
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 492
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 49}
+        - {x: -11, y: 47}
+        - {x: -19, y: 39}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 19, y: 37}
+        - {x: 9, y: 49}
+      tessellationDetail: 0
+    - name: Batman_360
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 478
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_361
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 422
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 48}
+        - {x: -11, y: 41}
+        - {x: -18, y: 25}
+        - {x: -18, y: 11}
+        - {x: -12, y: 10}
+        - {x: -11, y: 10}
+        - {x: -9, y: 1}
+        - {x: -7, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 48}
+      tessellationDetail: 0
+    - name: Batman_362
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 422
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 48}
+        - {x: -13.5, y: 45}
+        - {x: -16.5, y: 43}
+        - {x: -16.5, y: 7}
+        - {x: -8.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 46}
+        - {x: 13.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_363
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 422
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 47}
+        - {x: -21, y: 45}
+        - {x: -21, y: 3}
+        - {x: -20, y: 0}
+        - {x: 19, y: 0}
+        - {x: 21, y: 3}
+        - {x: 21, y: 44}
+        - {x: 13, y: 47}
+      tessellationDetail: 0
+    - name: Batman_364
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 422
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 25}
+        - {x: 23.5, y: 45}
+        - {x: 19.5, y: 47}
+        - {x: -1.5, y: 47}
+        - {x: -20.5, y: 36}
+        - {x: -23.5, y: 31}
+        - {x: -23.5, y: 3}
+        - {x: -14.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 5}
+        - {x: 21.5, y: 16}
+      tessellationDetail: 0
+    - name: Batman_365
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 422
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 25}
+        - {x: 23.5, y: 45}
+        - {x: 19.5, y: 47}
+        - {x: -1.5, y: 47}
+        - {x: -20.5, y: 36}
+        - {x: -23.5, y: 31}
+        - {x: -23.5, y: 3}
+        - {x: -14.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 5}
+        - {x: 21.5, y: 16}
+      tessellationDetail: 0
+    - name: Batman_366
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 422
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 47}
+        - {x: -24.5, y: 27}
+        - {x: -24.5, y: 7}
+        - {x: -12.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 24.5, y: 47}
+      tessellationDetail: 0
+    - name: Batman_367
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 422
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 48}
+        - {x: -23.5, y: 26}
+        - {x: -23.5, y: 9}
+        - {x: -14.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 23.5, y: 45}
+        - {x: 16.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_368
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 422
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 48}
+        - {x: -22, y: 40}
+        - {x: -22, y: 4}
+        - {x: -18, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 48}
+      tessellationDetail: 0
+    - name: Batman_369
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 422
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 0}
+        - {x: 16.5, y: 2}
+        - {x: 17.5, y: 13}
+        - {x: 17.5, y: 39}
+        - {x: 12.5, y: 49}
+        - {x: -6.5, y: 49}
+        - {x: -17.5, y: 44}
+        - {x: -17.5, y: 0}
+        - {x: -5.5, y: 0}
+        - {x: -5.5, y: 2}
+        - {x: -2.5, y: 5}
+        - {x: 1.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_370
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 408
+        width: 41
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_371
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_372
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 352
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 49}
+        - {x: -16.5, y: 25}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 46}
+        - {x: 11.5, y: 49}
+      tessellationDetail: 0
+    - name: Batman_373
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 352
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 44}
+        - {x: -23.5, y: 39}
+        - {x: -27.5, y: 29}
+        - {x: -27.5, y: 2}
+        - {x: -22.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 27.5, y: 1}
+        - {x: 27.5, y: 29}
+        - {x: 8.5, y: 44}
+      tessellationDetail: 0
+    - name: Batman_374
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 352
+        width: 60
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35}
+        - {x: -30, y: 16}
+        - {x: -19, y: 0}
+        - {x: 30, y: 0}
+        - {x: 30, y: 28}
+        - {x: 24, y: 35}
+      tessellationDetail: 0
+    - name: Batman_375
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 59
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 37}
+        - {x: -29.5, y: 35}
+        - {x: -29.5, y: 22}
+        - {x: -28.5, y: 21}
+        - {x: -26.5, y: 21}
+        - {x: -28.5, y: 13}
+        - {x: -20.5, y: 0}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 34}
+        - {x: 17.5, y: 37}
+      tessellationDetail: 0
+    - name: Batman_376
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 352
+        width: 55
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 8}
+        - {x: 27.5, y: 33}
+        - {x: 26.5, y: 36}
+        - {x: -27.5, y: 36}
+        - {x: -27.5, y: 16}
+        - {x: -18.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 20.5, y: 5}
+        - {x: 20.5, y: 10}
+        - {x: 21.5, y: 10}
+      tessellationDetail: 0
+    - name: Batman_377
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 352
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 44}
+        - {x: -22.5, y: 33}
+        - {x: -22.5, y: 3}
+        - {x: -21.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 22.5, y: 16}
+        - {x: 22.5, y: 30}
+        - {x: 17.5, y: 44}
+      tessellationDetail: 0
+    - name: Batman_378
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 352
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 48}
+        - {x: -19.5, y: 34}
+        - {x: -21.5, y: 24}
+        - {x: -21.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 41}
+        - {x: 12.5, y: 48}
+      tessellationDetail: 0
+    - name: Batman_379
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_380
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 338
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_381
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 338
+        width: 56
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_382
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 338
+        width: 39
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_383
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 338
+        width: 48
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_384
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 338
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_385
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 339
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_386
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 339
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_387
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 339
+        width: 25
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_388
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 297
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148.5, y: 52}
+        - {x: -148.5, y: 0}
+        - {x: 148.5, y: 0}
+        - {x: 148.5, y: 52}
+      tessellationDetail: 0
+    - name: Batman_389
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 279
+        width: 170
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 53}
+        - {x: -85, y: 0}
+        - {x: 85, y: 0}
+        - {x: 85, y: 53}
+      tessellationDetail: 0
+    - name: Batman_390
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_391
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 44}
+        - {x: -18.5, y: 36}
+        - {x: -18.5, y: 14}
+        - {x: -15.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 42}
+        - {x: 12.5, y: 44}
+      tessellationDetail: 0
+    - name: Batman_392
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 210
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 46}
+        - {x: -18.5, y: 39}
+        - {x: -18.5, y: 11}
+        - {x: -14.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 18.5, y: 42}
+        - {x: 14.5, y: 46}
+      tessellationDetail: 0
+    - name: Batman_393
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 210
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 48}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 39}
+        - {x: 10, y: 48}
+      tessellationDetail: 0
+    - name: Batman_394
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 210
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 47}
+        - {x: -16, y: 47}
+        - {x: -21, y: 38}
+        - {x: -21, y: 6}
+        - {x: -14, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 3}
+        - {x: 21, y: 18}
+        - {x: 21, y: 32}
+      tessellationDetail: 0
+    - name: Batman_395
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 210
+        width: 43
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 45}
+        - {x: -21.5, y: 42}
+        - {x: -21.5, y: 16}
+        - {x: -19.5, y: 8}
+        - {x: -5.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 37}
+        - {x: 5.5, y: 45}
+      tessellationDetail: 0
+    - name: Batman_396
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 210
+        width: 50
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_397
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 210
+        width: 48
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_398
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 210
+        width: 42
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 34}
+        - {x: -4, y: 34}
+        - {x: -14, y: 24}
+        - {x: -21, y: 19}
+        - {x: -21, y: 0}
+        - {x: 3, y: 0}
+        - {x: 14, y: 9}
+        - {x: 21, y: 17}
+        - {x: 21, y: 32}
+      tessellationDetail: 0
+    - name: Batman_399
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 210
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 41}
+        - {x: -17.5, y: 26}
+        - {x: -17.5, y: 1}
+        - {x: -16.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 17.5, y: 2}
+        - {x: 17.5, y: 41}
+      tessellationDetail: 0
+    - name: Batman_400
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 210
+        width: 42
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -21, y: 21}
+        - {x: -21, y: 0}
+        - {x: 19, y: 0}
+        - {x: 21, y: 3}
+        - {x: 21, y: 32}
+      tessellationDetail: 0
+    - name: Batman_401
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 210
+        width: 53
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_402
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 210
+        width: 57
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_403
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 210
+        width: 55
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_404
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 210
+        width: 54
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_405
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 153
+        width: 55
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_406
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 55
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_407
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 153
+        width: 55
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_408
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 153
+        width: 55
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_409
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 153
+        width: 52
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_410
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 153
+        width: 48
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_411
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 153
+        width: 43
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_412
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 153
+        width: 40
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_413
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 153
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Batman_414
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 153
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 36}
+        - {x: -16.5, y: 32}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 31}
+        - {x: 10.5, y: 36}
+      tessellationDetail: 0
+    - name: Batman_415
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 153
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 0}
+        - {x: 16.5, y: 46}
+        - {x: -14.5, y: 46}
+        - {x: -16.5, y: 45}
+        - {x: -16.5, y: 0}
+      tessellationDetail: 0
+    - name: Batman_416
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 153
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 48}
+        - {x: -9.5, y: 48}
+        - {x: -17.5, y: 38}
+        - {x: -17.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 17.5, y: 14}
+        - {x: 17.5, y: 36}
+      tessellationDetail: 0
+    - name: Batman_417
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 104
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 138}
+        - {x: -52, y: 109}
+        - {x: -52, y: 0}
+        - {x: 52, y: 0}
+        - {x: 52, y: 84}
+        - {x: 11, y: 138}
+      tessellationDetail: 0
+    - name: Batman_418
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 189
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 96}
+        - {x: 21.5, y: 98}
+        - {x: -13.5, y: 98}
+        - {x: -94.5, y: 62}
+        - {x: -94.5, y: 0}
+        - {x: 94.5, y: 0}
+        - {x: 94.5, y: 23}
+        - {x: 87.5, y: 32}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

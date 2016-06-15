@@ -1,0 +1,4441 @@
+fileFormatVersion: 2
+guid: 6a6fb29abc82d482099ce52277fd1e2b
+timeCreated: 1462156840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aquaman_0
+    21300002: Aquaman_1
+    21300004: Aquaman_2
+    21300006: Aquaman_3
+    21300008: Aquaman_4
+    21300010: Aquaman_5
+    21300012: Aquaman_6
+    21300014: Aquaman_7
+    21300016: Aquaman_8
+    21300018: Aquaman_9
+    21300020: Aquaman_10
+    21300022: Aquaman_11
+    21300024: Aquaman_12
+    21300026: Aquaman_13
+    21300028: Aquaman_14
+    21300030: Aquaman_15
+    21300032: Aquaman_16
+    21300034: Aquaman_17
+    21300036: Aquaman_18
+    21300038: Aquaman_19
+    21300040: Aquaman_20
+    21300042: Aquaman_21
+    21300044: Aquaman_22
+    21300046: Aquaman_23
+    21300048: Aquaman_24
+    21300050: Aquaman_25
+    21300052: Aquaman_26
+    21300054: Aquaman_27
+    21300056: Aquaman_28
+    21300058: Aquaman_29
+    21300060: Aquaman_30
+    21300062: Aquaman_31
+    21300064: Aquaman_32
+    21300066: Aquaman_33
+    21300068: Aquaman_34
+    21300070: Aquaman_35
+    21300072: Aquaman_36
+    21300074: Aquaman_37
+    21300076: Aquaman_38
+    21300078: Aquaman_39
+    21300080: Aquaman_40
+    21300082: Aquaman_41
+    21300084: Aquaman_42
+    21300086: Aquaman_43
+    21300088: Aquaman_44
+    21300090: Aquaman_45
+    21300092: Aquaman_46
+    21300094: Aquaman_47
+    21300096: Aquaman_48
+    21300098: Aquaman_49
+    21300100: Aquaman_50
+    21300102: Aquaman_51
+    21300104: Aquaman_52
+    21300106: Aquaman_53
+    21300108: Aquaman_54
+    21300110: Aquaman_55
+    21300112: Aquaman_56
+    21300114: Aquaman_57
+    21300116: Aquaman_58
+    21300118: Aquaman_59
+    21300120: Aquaman_60
+    21300122: Aquaman_61
+    21300124: Aquaman_62
+    21300126: Aquaman_63
+    21300128: Aquaman_64
+    21300130: Aquaman_65
+    21300132: Aquaman_66
+    21300134: Aquaman_67
+    21300136: Aquaman_68
+    21300138: Aquaman_69
+    21300140: Aquaman_70
+    21300142: Aquaman_71
+    21300144: Aquaman_72
+    21300146: Aquaman_73
+    21300148: Aquaman_74
+    21300150: Aquaman_75
+    21300152: Aquaman_76
+    21300154: Aquaman_77
+    21300156: Aquaman_78
+    21300158: Aquaman_79
+    21300160: Aquaman_80
+    21300162: Aquaman_81
+    21300164: Aquaman_82
+    21300166: Aquaman_83
+    21300168: Aquaman_84
+    21300170: Aquaman_85
+    21300172: Aquaman_86
+    21300174: Aquaman_87
+    21300176: Aquaman_88
+    21300178: Aquaman_89
+    21300180: Aquaman_90
+    21300182: Aquaman_91
+    21300184: Aquaman_92
+    21300186: Aquaman_93
+    21300188: Aquaman_94
+    21300190: Aquaman_95
+    21300192: Aquaman_96
+    21300194: Aquaman_97
+    21300196: Aquaman_98
+    21300198: Aquaman_99
+    21300200: Aquaman_100
+    21300202: Aquaman_101
+    21300204: Aquaman_102
+    21300206: Aquaman_103
+    21300208: Aquaman_104
+    21300210: Aquaman_105
+    21300212: Aquaman_106
+    21300214: Aquaman_107
+    21300216: Aquaman_108
+    21300218: Aquaman_109
+    21300220: Aquaman_110
+    21300222: Aquaman_111
+    21300224: Aquaman_112
+    21300226: Aquaman_113
+    21300228: Aquaman_114
+    21300230: Aquaman_115
+    21300232: Aquaman_116
+    21300234: Aquaman_117
+    21300236: Aquaman_118
+    21300238: Aquaman_119
+    21300240: Aquaman_120
+    21300242: Aquaman_121
+    21300244: Aquaman_122
+    21300246: Aquaman_123
+    21300248: Aquaman_124
+    21300250: Aquaman_125
+    21300252: Aquaman_126
+    21300254: Aquaman_127
+    21300256: Aquaman_128
+    21300258: Aquaman_129
+    21300260: Aquaman_130
+    21300262: Aquaman_131
+    21300264: Aquaman_132
+    21300266: Aquaman_133
+    21300268: Aquaman_134
+    21300270: Aquaman_135
+    21300272: Aquaman_136
+    21300274: Aquaman_137
+    21300276: Aquaman_138
+    21300278: Aquaman_139
+    21300280: Aquaman_140
+    21300282: Aquaman_141
+    21300284: Aquaman_142
+    21300286: Aquaman_143
+    21300288: Aquaman_144
+    21300290: Aquaman_145
+    21300292: Aquaman_146
+    21300294: Aquaman_147
+    21300296: Aquaman_148
+    21300298: Aquaman_149
+    21300300: Aquaman_150
+    21300302: Aquaman_151
+    21300304: Aquaman_152
+    21300306: Aquaman_153
+    21300308: Aquaman_154
+    21300310: Aquaman_155
+    21300312: Aquaman_156
+    21300314: Aquaman_157
+    21300316: Aquaman_158
+    21300318: Aquaman_159
+    21300320: Aquaman_160
+    21300322: Aquaman_161
+    21300324: Aquaman_162
+    21300326: Aquaman_163
+    21300328: Aquaman_164
+    21300330: Aquaman_165
+    21300332: Aquaman_166
+    21300334: Aquaman_167
+    21300336: Aquaman_168
+    21300338: Aquaman_169
+    21300340: Aquaman_170
+    21300342: Aquaman_171
+    21300344: Aquaman_172
+    21300346: Aquaman_173
+    21300348: Aquaman_174
+    21300350: Aquaman_175
+    21300352: Aquaman_176
+    21300354: Aquaman_177
+    21300356: Aquaman_178
+    21300358: Aquaman_179
+    21300360: Aquaman_180
+    21300362: Aquaman_181
+    21300364: Aquaman_182
+    21300366: Aquaman_183
+    21300368: Aquaman_184
+    21300370: Aquaman_185
+    21300372: Aquaman_186
+    21300374: Aquaman_187
+    21300376: Aquaman_188
+    21300378: Aquaman_189
+    21300380: Aquaman_190
+    21300382: Aquaman_191
+    21300384: Aquaman_192
+    21300386: Aquaman_193
+    21300388: Aquaman_194
+    21300390: Aquaman_195
+    21300392: Aquaman_196
+    21300394: Aquaman_197
+    21300396: Aquaman_198
+    21300398: Aquaman_199
+    21300400: Aquaman_200
+    21300402: Aquaman_201
+    21300404: Aquaman_202
+    21300406: Aquaman_203
+    21300408: Aquaman_204
+    21300410: Aquaman_205
+    21300412: Aquaman_206
+    21300414: Aquaman_207
+    21300416: Aquaman_208
+    21300418: Aquaman_209
+    21300420: Aquaman_210
+    21300422: Aquaman_211
+    21300424: Aquaman_212
+    21300426: Aquaman_213
+    21300428: Aquaman_214
+    21300430: Aquaman_215
+    21300432: Aquaman_216
+    21300434: Aquaman_217
+    21300436: Aquaman_218
+    21300438: Aquaman_219
+    21300440: Aquaman_220
+    21300442: Aquaman_221
+    21300444: Aquaman_222
+    21300446: Aquaman_223
+    21300448: Aquaman_224
+    21300450: Aquaman_225
+    21300452: Aquaman_226
+    21300454: Aquaman_227
+    21300456: Aquaman_228
+    21300458: Aquaman_229
+    21300460: Aquaman_230
+    21300462: Aquaman_231
+    21300464: Aquaman_232
+    21300466: Aquaman_233
+    21300468: Aquaman_234
+    21300470: Aquaman_235
+    21300472: Aquaman_236
+    21300474: Aquaman_237
+    21300476: Aquaman_238
+    21300478: Aquaman_239
+    21300480: Aquaman_240
+    21300482: Aquaman_241
+    21300484: Aquaman_242
+    21300486: Aquaman_243
+    21300488: Aquaman_244
+    21300490: Aquaman_245
+    21300492: Aquaman_246
+    21300494: Aquaman_247
+    21300496: Aquaman_248
+    21300498: Aquaman_249
+    21300500: Aquaman_250
+    21300502: Aquaman_251
+    21300504: Aquaman_252
+    21300506: Aquaman_253
+    21300508: Aquaman_254
+    21300510: Aquaman_255
+    21300512: Aquaman_256
+    21300514: Aquaman_257
+    21300516: Aquaman_258
+    21300518: Aquaman_259
+    21300520: Aquaman_260
+    21300522: Aquaman_261
+    21300524: Aquaman_262
+    21300526: Aquaman_263
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Aquaman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1424
+        width: 20
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1424
+        width: 55
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1367
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 51}
+        - {x: -16, y: 40}
+        - {x: -17, y: 38}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 41}
+        - {x: 13, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1367
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 51}
+        - {x: -17, y: 46}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 9, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1367
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 50}
+        - {x: -17, y: 45}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 9, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1367
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 50}
+        - {x: -17, y: 48}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 12, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1367
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 51}
+        - {x: -17, y: 41}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 38}
+        - {x: 11, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1367
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 51}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 42}
+        - {x: 8, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1367
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 50}
+        - {x: -20.5, y: 49}
+        - {x: -20.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 20.5, y: 18}
+        - {x: 20.5, y: 42}
+        - {x: 10.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1367
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 50}
+        - {x: -20.5, y: 45}
+        - {x: -20.5, y: 13}
+        - {x: -16.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 20.5, y: 23}
+        - {x: 20.5, y: 44}
+        - {x: 15.5, y: 50}
+      - - {x: -7.5, y: 19}
+        - {x: -7.5, y: 21}
+        - {x: -9.5, y: 24}
+        - {x: -8.5, y: 25}
+        - {x: -7.5, y: 25}
+        - {x: -9.5, y: 21}
+        - {x: -10.5, y: 17}
+        - {x: -10.5, y: 16}
+        - {x: -9.5, y: 16}
+      tessellationDetail: 0
+    - name: Aquaman_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1367
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 50}
+        - {x: -20.5, y: 38}
+        - {x: -20.5, y: 13}
+        - {x: -18.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 20.5, y: 19}
+        - {x: 20.5, y: 43}
+        - {x: 9.5, y: 50}
+      - - {x: -7.5, y: 19}
+        - {x: -7.5, y: 22}
+        - {x: -9.5, y: 24}
+        - {x: -8.5, y: 25}
+        - {x: -7.5, y: 25}
+        - {x: -9.5, y: 21}
+        - {x: -10.5, y: 17}
+        - {x: -10.5, y: 16}
+        - {x: -9.5, y: 16}
+      tessellationDetail: 0
+    - name: Aquaman_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1400
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1399
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1401
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_17
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1377
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1377
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1378
+        width: 36
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1353
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1294
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 48}
+        - {x: -21.5, y: 44}
+        - {x: -21.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 21.5, y: 15}
+        - {x: 21.5, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1294
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 49}
+        - {x: -23, y: 44}
+        - {x: -21, y: 30}
+        - {x: -17, y: 28}
+        - {x: -25, y: 14}
+        - {x: -25, y: 1}
+        - {x: -24, y: 0}
+        - {x: -10, y: 0}
+        - {x: 8, y: 1}
+        - {x: 25, y: 19}
+        - {x: 25, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1294
+        width: 52
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 47}
+        - {x: -26, y: 0}
+        - {x: 18, y: 0}
+        - {x: 26, y: 26}
+        - {x: 26, y: 44}
+        - {x: 18, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1294
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 49}
+        - {x: -25, y: 36}
+        - {x: -19, y: 25}
+        - {x: -12, y: 26}
+        - {x: -22, y: 22}
+        - {x: -28, y: 16}
+        - {x: -28, y: 4}
+        - {x: -25, y: 4}
+        - {x: -23, y: 5}
+        - {x: 2, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1294
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 52}
+        - {x: -17, y: 46}
+        - {x: -22, y: 40}
+        - {x: -27, y: 24}
+        - {x: -27, y: 10}
+        - {x: -16, y: 0}
+        - {x: 27, y: 0}
+        - {x: 27, y: 51}
+        - {x: 25, y: 52}
+      - - {x: -9, y: 33}
+        - {x: -8, y: 31}
+        - {x: -9, y: 29}
+        - {x: -8, y: 29}
+      tessellationDetail: 0
+    - name: Aquaman_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1294
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 25}
+        - {x: -23, y: 0}
+        - {x: 14, y: 0}
+        - {x: 23, y: 6}
+        - {x: 23, y: 50}
+        - {x: -1, y: 50}
+        - {x: -9, y: 47}
+        - {x: -19, y: 41}
+      tessellationDetail: 0
+    - name: Aquaman_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1294
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 48}
+        - {x: -16.5, y: 30}
+        - {x: -16.5, y: 1}
+        - {x: -13.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 16.5, y: 21}
+        - {x: 16.5, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1294
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1294
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 48}
+        - {x: -20.5, y: 42}
+        - {x: -20.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 20.5, y: 9}
+        - {x: 20.5, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1294
+        width: 47
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 45}
+        - {x: 15.5, y: 42}
+        - {x: 13.5, y: 49}
+        - {x: -5.5, y: 49}
+        - {x: -21.5, y: 44}
+        - {x: -18.5, y: 30}
+        - {x: -16.5, y: 26}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 0}
+        - {x: 7.5, y: 0}
+        - {x: 21.5, y: 22}
+        - {x: 23.5, y: 27}
+        - {x: 23.5, y: 45}
+      tessellationDetail: 0
+    - name: Aquaman_31
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1294
+        width: 51
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 47}
+        - {x: -25.5, y: 44}
+        - {x: -25.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 25.5, y: 14}
+        - {x: 25.5, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_32
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1294
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 49}
+        - {x: -14.5, y: 46}
+        - {x: -25.5, y: 37}
+        - {x: -27.5, y: 23}
+        - {x: -27.5, y: 3}
+        - {x: -24.5, y: 4}
+        - {x: -22.5, y: 5}
+        - {x: -10.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 27.5, y: 1}
+        - {x: 27.5, y: 48}
+        - {x: 23.5, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1294
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 51}
+        - {x: -22.5, y: 42}
+        - {x: -21.5, y: 27}
+        - {x: -17.5, y: 25}
+        - {x: -12.5, y: 25}
+        - {x: -9.5, y: 28}
+        - {x: -13.5, y: 24}
+        - {x: -16.5, y: 25}
+        - {x: -26.5, y: 25}
+        - {x: -26.5, y: 11}
+        - {x: -19.5, y: 0}
+        - {x: 24.5, y: 0}
+        - {x: 26.5, y: 6}
+        - {x: 26.5, y: 50}
+        - {x: 18.5, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1294
+        width: 43
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 50}
+        - {x: -12.5, y: 38}
+        - {x: -21.5, y: 17}
+        - {x: -21.5, y: 2}
+        - {x: -3.5, y: 4}
+        - {x: -2.5, y: 8}
+        - {x: -0.5, y: 13}
+        - {x: -2.5, y: 9}
+        - {x: -2.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 21.5, y: 21}
+        - {x: 21.5, y: 42}
+        - {x: 15.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_35
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1294
+        width: 31
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_36
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1294
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 47}
+        - {x: -17.5, y: 46}
+        - {x: -17.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 11.5, y: 2}
+        - {x: 17.5, y: 15}
+        - {x: 17.5, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1280
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1280
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1213
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 53}
+        - {x: -17.5, y: 43}
+        - {x: -19.5, y: 40}
+        - {x: -19.5, y: 3}
+        - {x: -12.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 43}
+        - {x: 13.5, y: 53}
+      tessellationDetail: 0
+    - name: Aquaman_40
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1213
+        width: 44
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 58}
+        - {x: -22, y: 44}
+        - {x: -22, y: 26}
+        - {x: -12, y: 0}
+        - {x: 3, y: 0}
+        - {x: 22, y: 12}
+        - {x: 22, y: 52}
+        - {x: 7, y: 58}
+      tessellationDetail: 0
+    - name: Aquaman_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1213
+        width: 44
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 58}
+        - {x: -11, y: 58}
+        - {x: -22, y: 45}
+        - {x: -22, y: 10}
+        - {x: -17, y: 0}
+        - {x: 4, y: 0}
+        - {x: 22, y: 16}
+        - {x: 22, y: 49}
+        - {x: 12, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1217
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 56}
+        - {x: -24, y: 47}
+        - {x: -24, y: 0}
+        - {x: 9, y: 0}
+        - {x: 24, y: 12}
+        - {x: 24, y: 45}
+        - {x: 8, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1218
+        width: 48
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 53}
+        - {x: -24, y: 51}
+        - {x: -24, y: 6}
+        - {x: -20, y: 0}
+        - {x: 14, y: 0}
+        - {x: 24, y: 13}
+        - {x: 24, y: 47}
+        - {x: 8, y: 53}
+      tessellationDetail: 0
+    - name: Aquaman_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1213
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 56}
+        - {x: -25, y: 47}
+        - {x: -25, y: 21}
+        - {x: -17, y: 12}
+        - {x: -6, y: 0}
+        - {x: 12, y: 0}
+        - {x: 25, y: 22}
+        - {x: 25, y: 47}
+        - {x: 7, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1213
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 56}
+        - {x: -25, y: 49}
+        - {x: -25, y: 17}
+        - {x: -4, y: 0}
+        - {x: 10, y: 0}
+        - {x: 25, y: 15}
+        - {x: 25, y: 47}
+        - {x: 19, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1213
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 39}
+        - {x: 9.5, y: 48}
+        - {x: -6.5, y: 48}
+        - {x: -19.5, y: 37}
+        - {x: -19.5, y: 23}
+        - {x: -12.5, y: 20}
+        - {x: -8.5, y: 26}
+        - {x: -8.5, y: 28}
+        - {x: -10.5, y: 30}
+        - {x: -7.5, y: 28}
+        - {x: -14.5, y: 10}
+        - {x: -18.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 14.5, y: 1}
+        - {x: 19.5, y: 19}
+      tessellationDetail: 0
+    - name: Aquaman_47
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1213
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 49}
+        - {x: -10.5, y: 49}
+        - {x: -19.5, y: 41}
+        - {x: -19.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 40}
+        - {x: 18.5, y: 45}
+      tessellationDetail: 0
+    - name: Aquaman_48
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1213
+        width: 46
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 9}
+        - {x: 23, y: 22}
+        - {x: 23, y: 43}
+        - {x: -18, y: 43}
+        - {x: -23, y: 38}
+        - {x: -23, y: 27}
+        - {x: -17, y: 21}
+        - {x: -17, y: 10}
+        - {x: -16, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 6}
+        - {x: -2, y: 0}
+        - {x: 17, y: 0}
+      tessellationDetail: 0
+    - name: Aquaman_49
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1213
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 13}
+        - {x: 22.5, y: 40}
+        - {x: -20.5, y: 40}
+        - {x: -22.5, y: 37}
+        - {x: -22.5, y: 24}
+        - {x: -16.5, y: 19}
+        - {x: -15.5, y: 0}
+        - {x: 15.5, y: 0}
+      tessellationDetail: 0
+    - name: Aquaman_50
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1213
+        width: 45
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 20}
+        - {x: 8.5, y: 21}
+        - {x: 13.5, y: 19}
+        - {x: 18.5, y: 20}
+        - {x: 22.5, y: 22}
+        - {x: 22.5, y: 35}
+        - {x: 20.5, y: 38}
+        - {x: -20.5, y: 38}
+        - {x: -22.5, y: 37}
+        - {x: -22.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 16.5, y: 10}
+        - {x: 16.5, y: 13}
+      tessellationDetail: 0
+    - name: Aquaman_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1213
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 37}
+        - {x: -21.5, y: 13}
+        - {x: -18.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 21.5, y: 10}
+        - {x: 21.5, y: 33}
+        - {x: 19.5, y: 37}
+      - - {x: 6.5, y: 21}
+        - {x: 8.5, y: 22}
+        - {x: 9.5, y: 20}
+        - {x: 9.5, y: 21}
+      tessellationDetail: 0
+    - name: Aquaman_52
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1213
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 45}
+        - {x: -22.5, y: 40}
+        - {x: -22.5, y: 0}
+        - {x: 22.5, y: 0}
+        - {x: 22.5, y: 45}
+      tessellationDetail: 0
+    - name: Aquaman_53
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1213
+        width: 41
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 49}
+        - {x: -20.5, y: 11}
+        - {x: -15.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 20.5, y: 9}
+        - {x: 20.5, y: 32}
+        - {x: 14.5, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_54
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1213
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 50}
+        - {x: -17, y: 48}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 37}
+        - {x: 12, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1199
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1199
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1141
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 50}
+        - {x: -20.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 20.5, y: 7}
+        - {x: 20.5, y: 43}
+        - {x: 13.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_58
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1141
+        width: 53
+        height: 51
+      alignment: 9
+      pivot: {x: 0.43056387, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.8198853, y: 51}
+        - {x: -22.819885, y: 40}
+        - {x: -22.819885, y: 9}
+        - {x: -21.819885, y: 0}
+        - {x: 16.180115, y: 0}
+        - {x: 30.180115, y: 26}
+        - {x: 30.180115, y: 45}
+        - {x: 10.180115, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_59
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1141
+        width: 50
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4106259, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.468704, y: 50}
+        - {x: -14.531296, y: 50}
+        - {x: -20.531296, y: 48}
+        - {x: -20.531296, y: 0}
+        - {x: 13.468704, y: 0}
+        - {x: 14.468704, y: 2}
+        - {x: 29.468704, y: 28}
+        - {x: 29.468704, y: 46}
+      tessellationDetail: 0
+    - name: Aquaman_60
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1141
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 50}
+        - {x: -18.5, y: 5}
+        - {x: -16.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 18.5, y: 5}
+        - {x: 18.5, y: 43}
+        - {x: 12.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1141
+        width: 46
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4199975, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.31988525, y: 47}
+        - {x: -16.319885, y: 34}
+        - {x: -15.319885, y: 29}
+        - {x: -13.319885, y: 26}
+        - {x: -8.319885, y: 24}
+        - {x: -18.319885, y: 10}
+        - {x: -19.319885, y: 8}
+        - {x: -19.319885, y: 0}
+        - {x: 25.680115, y: 0}
+        - {x: 26.680115, y: 2}
+        - {x: 26.680115, y: 39}
+        - {x: 20.680115, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1141
+        width: 65
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 46}
+        - {x: 30.5, y: 50}
+        - {x: -19.5, y: 50}
+        - {x: -32.5, y: 43}
+        - {x: -32.5, y: 21}
+        - {x: -21.5, y: 7}
+        - {x: -13.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 24.5, y: 10}
+        - {x: 32.5, y: 14}
+      - - {x: 6.5, y: 16}
+        - {x: 6.5, y: 19}
+        - {x: 5.5, y: 14}
+      tessellationDetail: 0
+    - name: Aquaman_63
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1141
+        width: 70
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 36}
+        - {x: 15, y: 51}
+        - {x: -17, y: 51}
+        - {x: -35, y: 36}
+        - {x: -35, y: 20}
+        - {x: -13, y: 0}
+        - {x: 12, y: 0}
+        - {x: 35, y: 20}
+        - {x: 35, y: 37}
+      - - {x: 8, y: 19}
+        - {x: 11, y: 20}
+        - {x: 12, y: 22}
+        - {x: 15, y: 19}
+        - {x: 15, y: 20}
+        - {x: 12, y: 18}
+        - {x: 9, y: 17}
+        - {x: 7, y: 14}
+        - {x: 7, y: 13}
+        - {x: 8, y: 14}
+      - - {x: 24, y: 25}
+        - {x: 26, y: 25}
+        - {x: 25, y: 23}
+        - {x: 26, y: 23}
+      tessellationDetail: 0
+    - name: Aquaman_64
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1141
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 41}
+        - {x: -25.5, y: 16}
+        - {x: -4.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 25.5, y: 9}
+        - {x: 25.5, y: 51}
+        - {x: -21.5, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_65
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1141
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 51}
+        - {x: -20, y: 47}
+        - {x: -20, y: 11}
+        - {x: -10, y: 0}
+        - {x: 17, y: 0}
+        - {x: 20, y: 10}
+        - {x: 20, y: 43}
+        - {x: 14, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1052
+        width: 41
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 12}
+        - {x: 20.5, y: 19}
+        - {x: 20.5, y: 37}
+        - {x: 14.5, y: 45}
+        - {x: -12.5, y: 45}
+        - {x: -20.5, y: 39}
+        - {x: -20.5, y: 11}
+        - {x: -18.5, y: 0}
+        - {x: 12.5, y: 0}
+      tessellationDetail: 0
+    - name: Aquaman_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1052
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 44}
+        - {x: -22, y: 43}
+        - {x: -22, y: 13}
+        - {x: -19, y: 0}
+        - {x: 19, y: 0}
+        - {x: 22, y: 2}
+        - {x: 22, y: 43}
+        - {x: 21, y: 44}
+      tessellationDetail: 0
+    - name: Aquaman_68
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1052
+        width: 44
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 68}
+        - {x: -22, y: 58}
+        - {x: -22, y: 8}
+        - {x: -14, y: 0}
+        - {x: 19, y: 0}
+        - {x: 22, y: 5}
+        - {x: 22, y: 68}
+      tessellationDetail: 0
+    - name: Aquaman_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1052
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 66}
+        - {x: -20.5, y: 57}
+        - {x: -20.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 20.5, y: 9}
+        - {x: 20.5, y: 50}
+        - {x: 14.5, y: 66}
+      tessellationDetail: 0
+    - name: Aquaman_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1052
+        width: 20
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1052
+        width: 23
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_72
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1052
+        width: 20
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_73
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1052
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 62}
+        - {x: -20, y: 38}
+        - {x: -20, y: 31}
+        - {x: -13, y: 26}
+        - {x: -10, y: 3}
+        - {x: -9, y: 0}
+        - {x: 19, y: 0}
+        - {x: 20, y: 2}
+        - {x: 20, y: 62}
+      tessellationDetail: 0
+    - name: Aquaman_74
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1052
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 48}
+        - {x: -24, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 13}
+        - {x: 24, y: 39}
+        - {x: 13, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1052
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 39}
+        - {x: 9.5, y: 48}
+        - {x: -6.5, y: 48}
+        - {x: -19.5, y: 37}
+        - {x: -19.5, y: 23}
+        - {x: -12.5, y: 20}
+        - {x: -8.5, y: 26}
+        - {x: -8.5, y: 28}
+        - {x: -10.5, y: 30}
+        - {x: -7.5, y: 28}
+        - {x: -14.5, y: 10}
+        - {x: -18.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 14.5, y: 1}
+        - {x: 19.5, y: 19}
+      tessellationDetail: 0
+    - name: Aquaman_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1052
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 49}
+        - {x: -10.5, y: 49}
+        - {x: -19.5, y: 41}
+        - {x: -19.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 40}
+        - {x: 18.5, y: 45}
+      tessellationDetail: 0
+    - name: Aquaman_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1038
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1038
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_79
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 963
+        width: 89
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3729975, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8032227, y: 62}
+        - {x: -26.196777, y: 46}
+        - {x: -33.196777, y: 30}
+        - {x: -33.196777, y: 0}
+        - {x: 30.803223, y: 0}
+        - {x: 51.803223, y: 5}
+        - {x: 55.803223, y: 21}
+        - {x: 55.803223, y: 62}
+      - - {x: 11.803223, y: 20}
+        - {x: 10.803223, y: 23}
+        - {x: 26.803223, y: 45}
+        - {x: 12.803223, y: 17}
+        - {x: 10.803223, y: 15}
+        - {x: 11.803223, y: 15}
+      tessellationDetail: 0
+    - name: Aquaman_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 963
+        width: 73
+        height: 65
+      alignment: 9
+      pivot: {x: 0.17723607, y: 0.027883677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.0617676, y: 63.18756}
+        - {x: -11.938232, y: 57.18756}
+        - {x: -12.938232, y: 46.18756}
+        - {x: -12.938232, y: -1.812439}
+        - {x: 14.061768, y: -1.812439}
+        - {x: 24.061768, y: 46.18756}
+        - {x: 24.061768, y: 63.18756}
+      - - {x: 40.061768, y: 21.187561}
+        - {x: 26.061768, y: 18.187561}
+        - {x: 20.061768, y: 13.187561}
+        - {x: 21.061768, y: 10.187561}
+        - {x: 36.061768, y: 10.187561}
+        - {x: 45.061768, y: 15.187561}
+        - {x: 45.061768, y: 21.187561}
+      - - {x: 28.061768, y: 52.18756}
+        - {x: 44.061768, y: 20.187561}
+        - {x: 45.061768, y: 19.187561}
+        - {x: 51.061768, y: 19.187561}
+        - {x: 60.061768, y: 26.187561}
+        - {x: 60.061768, y: 49.18756}
+        - {x: 58.061768, y: 55.18756}
+        - {x: 32.061768, y: 57.18756}
+        - {x: 28.061768, y: 57.18756}
+        - {x: 27.061768, y: 55.18756}
+      tessellationDetail: 0
+    - name: Aquaman_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 963
+        width: 32
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4424982, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8400574, y: 63}
+        - {x: -14.159943, y: 54}
+        - {x: -14.159943, y: 0}
+        - {x: 12.840057, y: 0}
+        - {x: 17.840057, y: 13}
+        - {x: 17.840057, y: 59}
+        - {x: 16.840057, y: 63}
+      tessellationDetail: 0
+    - name: Aquaman_85
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 963
+        width: 38
+        height: 60
+      alignment: 9
+      pivot: {x: 0.3707725, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.9106445, y: 60}
+        - {x: 8.910645, y: 55}
+        - {x: 10.910645, y: 47}
+        - {x: 10.910645, y: 50}
+        - {x: 5.9106445, y: 52}
+        - {x: -1.0893555, y: 59}
+        - {x: -14.089355, y: 33}
+        - {x: -14.089355, y: 0}
+        - {x: 17.910645, y: 0}
+        - {x: 23.910645, y: 31}
+        - {x: 23.910645, y: 53}
+        - {x: 13.910645, y: 60}
+      tessellationDetail: 0
+    - name: Aquaman_86
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 963
+        width: 124
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46738654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.044067, y: 68}
+        - {x: 12.044067, y: 68}
+        - {x: -57.955933, y: 26}
+        - {x: -57.955933, y: 2}
+        - {x: -47.955933, y: 0}
+        - {x: 34.044067, y: 0}
+        - {x: 61.044067, y: 21}
+        - {x: 66.04407, y: 34}
+        - {x: 66.04407, y: 64}
+      - - {x: -8.955933, y: 25}
+        - {x: -8.955933, y: 18}
+        - {x: -20.955933, y: 18}
+      tessellationDetail: 0
+    - name: Aquaman_87
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 963
+        width: 77
+        height: 56
+      alignment: 9
+      pivot: {x: 0.59003556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.56726, y: 56}
+        - {x: 9.567261, y: 56}
+        - {x: 7.5672607, y: 53}
+        - {x: 6.5672607, y: 50}
+        - {x: 6.5672607, y: 47}
+        - {x: 6.5672607, y: 51}
+        - {x: 7.5672607, y: 56}
+        - {x: -2.4327393, y: 56}
+        - {x: -45.43274, y: 49}
+        - {x: -45.43274, y: 37}
+        - {x: -35.43274, y: 25}
+        - {x: -20.43274, y: 6}
+        - {x: -13.432739, y: 0}
+        - {x: 20.56726, y: 0}
+        - {x: 24.56726, y: 3}
+        - {x: 31.56726, y: 27}
+        - {x: 31.56726, y: 54}
+      tessellationDetail: 0
+    - name: Aquaman_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 963
+        width: 86
+        height: 50
+      alignment: 9
+      pivot: {x: 0.66438425, y: 0.007249756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8629532, y: 10.637512}
+        - {x: 0.8629532, y: 6.637512}
+        - {x: 1.8629532, y: -0.3624878}
+        - {x: 28.862953, y: -0.3624878}
+        - {x: 28.862953, y: 49.637512}
+        - {x: -13.137047, y: 49.637512}
+        - {x: -57.137047, y: 25.637512}
+        - {x: -57.137047, y: 2.6375122}
+        - {x: -50.137047, y: -0.3624878}
+        - {x: -1.1370468, y: -0.3624878}
+        - {x: -0.13704681, y: 8.637512}
+        - {x: -0.13704681, y: 10.637512}
+        - {x: 1.8629532, y: 11.637512}
+      - - {x: 11.862953, y: 23.637512}
+        - {x: 11.862953, y: 25.637512}
+        - {x: 13.862953, y: 23.637512}
+        - {x: 12.862953, y: 21.637512}
+      tessellationDetail: 0
+    - name: Aquaman_90
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 963
+        width: 82
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6731065, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.194733, y: 51}
+        - {x: -55.194733, y: 14}
+        - {x: -55.194733, y: 5}
+        - {x: -42.194733, y: 0}
+        - {x: 25.805267, y: 0}
+        - {x: 26.805267, y: 9}
+        - {x: 26.805267, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 963
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3723232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.968689, y: 56}
+        - {x: -5.031311, y: 53}
+        - {x: -13.031311, y: 47}
+        - {x: -13.031311, y: 0}
+        - {x: 15.968689, y: 0}
+        - {x: 21.968689, y: 25}
+        - {x: 21.968689, y: 54}
+        - {x: 18.968689, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 963
+        width: 29
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_93
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 963
+        width: 97
+        height: 51
+      alignment: 9
+      pivot: {x: 0.60422915, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.6102295, y: 51}
+        - {x: -58.61023, y: 27}
+        - {x: -58.61023, y: 4}
+        - {x: -30.61023, y: 0}
+        - {x: 27.38977, y: 0}
+        - {x: 38.38977, y: 9}
+        - {x: 38.38977, y: 51}
+      - - {x: -33.61023, y: 15}
+        - {x: -22.61023, y: 18}
+        - {x: -7.6102295, y: 25}
+        - {x: -34.61023, y: 15}
+      tessellationDetail: 0
+    - name: Aquaman_94
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 963
+        width: 87
+        height: 52
+      alignment: 9
+      pivot: {x: 0.7158175, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.276123, y: 52}
+        - {x: -41.276123, y: 43}
+        - {x: -62.276123, y: 20}
+        - {x: -62.276123, y: 2}
+        - {x: -43.276123, y: 0}
+        - {x: 16.723877, y: 0}
+        - {x: 24.723877, y: 18}
+        - {x: 24.723877, y: 52}
+      tessellationDetail: 0
+    - name: Aquaman_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 949
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_106
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 949
+        width: 41
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_107
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 867
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 75}
+        - {x: -13.5, y: 75}
+        - {x: -19.5, y: 72}
+        - {x: -27.5, y: 33}
+        - {x: -27.5, y: 11}
+        - {x: -22.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 27.5, y: 40}
+        - {x: 21.5, y: 59}
+      - - {x: 6.5, y: 72}
+        - {x: 2.5, y: 72}
+        - {x: -1.5, y: 66}
+        - {x: -1.5, y: 64}
+        - {x: 0.5, y: 63}
+        - {x: 3.5, y: 63}
+        - {x: 7.5, y: 67}
+        - {x: 7.5, y: 71}
+      - - {x: -4.5, y: 68}
+        - {x: -1.5, y: 68}
+        - {x: 2.5, y: 71}
+        - {x: 2.5, y: 75}
+        - {x: -4.5, y: 75}
+      tessellationDetail: 0
+    - name: Aquaman_111
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 867
+        width: 43
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 70}
+        - {x: -21.5, y: 49}
+        - {x: -21.5, y: 10}
+        - {x: -19.5, y: 10}
+        - {x: -16.5, y: 12}
+        - {x: -12.5, y: 0}
+        - {x: 21.5, y: 0}
+        - {x: 21.5, y: 70}
+      tessellationDetail: 0
+    - name: Aquaman_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 867
+        width: 48
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 74}
+        - {x: -16, y: 74}
+        - {x: -24, y: 49}
+        - {x: -24, y: 5}
+        - {x: -23, y: 0}
+        - {x: 23, y: 0}
+        - {x: 24, y: 8}
+        - {x: 24, y: 45}
+        - {x: 15, y: 73}
+      tessellationDetail: 0
+    - name: Aquaman_114
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 867
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 60}
+        - {x: 1.5, y: 60}
+        - {x: -20.5, y: 37}
+        - {x: -20.5, y: 17}
+        - {x: -17.5, y: 17}
+        - {x: -8.5, y: 1}
+        - {x: -7.5, y: 0}
+        - {x: 4.5, y: 0}
+        - {x: 7.5, y: 10}
+        - {x: 7.5, y: 13}
+        - {x: 7.5, y: 10}
+      tessellationDetail: 0
+    - name: Aquaman_115
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 867
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 49}
+        - {x: -20, y: 40}
+        - {x: -20, y: 0}
+        - {x: 7, y: 0}
+        - {x: 20, y: 18}
+        - {x: 20, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_116
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 867
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 47}
+        - {x: -34, y: 28}
+        - {x: -34, y: 0}
+        - {x: -19, y: 0}
+        - {x: 34, y: 16}
+        - {x: 34, y: 39}
+        - {x: 13, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 867
+        width: 79
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 16}
+        - {x: 39.5, y: 34}
+        - {x: 14.5, y: 44}
+        - {x: -18.5, y: 44}
+        - {x: -39.5, y: 23}
+        - {x: -39.5, y: 0}
+        - {x: -26.5, y: 0}
+        - {x: -4.5, y: 5}
+        - {x: -1.5, y: 12}
+        - {x: -1.5, y: 17}
+        - {x: 3.5, y: 15}
+      tessellationDetail: 0
+    - name: Aquaman_118
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 867
+        width: 79
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 44}
+        - {x: -12.5, y: 44}
+        - {x: -19.5, y: 41}
+        - {x: -24.5, y: 34}
+        - {x: -39.5, y: 15}
+        - {x: -39.5, y: 0}
+        - {x: -8.5, y: 0}
+        - {x: 39.5, y: 15}
+        - {x: 39.5, y: 36}
+      tessellationDetail: 0
+    - name: Aquaman_119
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 867
+        width: 75
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 41}
+        - {x: -37.5, y: 8}
+        - {x: -37.5, y: 0}
+        - {x: -4.5, y: 0}
+        - {x: 37.5, y: 16}
+        - {x: 37.5, y: 41}
+      tessellationDetail: 0
+    - name: Aquaman_122
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 867
+        width: 72
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 25}
+        - {x: -11, y: 20}
+        - {x: 25, y: 20}
+        - {x: 36, y: 25}
+        - {x: 36, y: 31}
+        - {x: 35, y: 32}
+        - {x: 32, y: 32}
+        - {x: 30, y: 31}
+        - {x: 32, y: 33}
+        - {x: 33, y: 37}
+        - {x: 24, y: 44}
+        - {x: 19, y: 42}
+        - {x: 4, y: 40}
+        - {x: 3, y: 37}
+        - {x: 6, y: 34}
+        - {x: 3, y: 37}
+        - {x: 3, y: 42}
+        - {x: -3, y: 47}
+        - {x: -33, y: 47}
+        - {x: -36, y: 41}
+        - {x: -36, y: 0}
+        - {x: -14, y: 0}
+        - {x: -10, y: 18}
+        - {x: -14, y: 23}
+        - {x: -14, y: 27}
+      - - {x: 33, y: 34}
+        - {x: 35, y: 32}
+        - {x: 36, y: 32}
+        - {x: 36, y: 37}
+        - {x: 34, y: 37}
+      - - {x: 29, y: 39}
+        - {x: 30, y: 36}
+        - {x: 33, y: 36}
+        - {x: 35, y: 38}
+        - {x: 34, y: 41}
+        - {x: 31, y: 41}
+      tessellationDetail: 0
+    - name: Aquaman_126
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 867
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 48}
+        - {x: -24, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 13}
+        - {x: 24, y: 39}
+        - {x: 13, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_129
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 853
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_130
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 853
+        width: 26
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_131
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 853
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_132
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 790
+        width: 48
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 55}
+        - {x: -12, y: 55}
+        - {x: -24, y: 51}
+        - {x: -24, y: 30}
+        - {x: -17, y: 29}
+        - {x: -16, y: 9}
+        - {x: -14, y: 0}
+        - {x: -4, y: 0}
+        - {x: 13, y: 5}
+        - {x: 24, y: 23}
+      tessellationDetail: 0
+    - name: Aquaman_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 790
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 56}
+        - {x: -28.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 28.5, y: 7}
+        - {x: 28.5, y: 49}
+        - {x: 22.5, y: 56}
+      - - {x: 8.5, y: 10}
+        - {x: 10.5, y: 13}
+        - {x: 5.5, y: 10}
+        - {x: 3.5, y: 8}
+      - - {x: 12.5, y: 23}
+        - {x: 12.5, y: 18}
+        - {x: 13.5, y: 18}
+      tessellationDetail: 0
+    - name: Aquaman_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 795
+        width: 56
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 1}
+        - {x: -25, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 47}
+        - {x: -27, y: 47}
+        - {x: -28, y: 45}
+      - - {x: 15, y: 15}
+        - {x: 21, y: 18}
+        - {x: 18, y: 12}
+        - {x: 20, y: 11}
+        - {x: 19, y: 13}
+        - {x: 17, y: 13}
+        - {x: 14, y: 11}
+        - {x: 15, y: 11}
+      tessellationDetail: 0
+    - name: Aquaman_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 790
+        width: 45
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 52}
+        - {x: -21.5, y: 51}
+        - {x: -22.5, y: 48}
+        - {x: -22.5, y: 31}
+        - {x: 2.5, y: 0}
+        - {x: 11.5, y: 0}
+        - {x: 22.5, y: 14}
+        - {x: 22.5, y: 49}
+        - {x: 20.5, y: 52}
+      tessellationDetail: 0
+    - name: Aquaman_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 790
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 55}
+        - {x: -21, y: 46}
+        - {x: -25, y: 43}
+        - {x: -25, y: 34}
+        - {x: -23, y: 33}
+        - {x: -2, y: 0}
+        - {x: 12, y: 0}
+        - {x: 25, y: 17}
+        - {x: 25, y: 47}
+        - {x: 19, y: 55}
+      tessellationDetail: 0
+    - name: Aquaman_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 776
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_139
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 776
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_140
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 776
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 696
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.71184444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.371246, y: 56}
+        - {x: -58.371246, y: 19}
+        - {x: -58.371246, y: 0}
+        - {x: 3.6287537, y: 0}
+        - {x: 23.628754, y: 24}
+        - {x: 23.628754, y: 56}
+      tessellationDetail: 0
+    - name: Aquaman_142
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 696
+        width: 89
+        height: 66
+      alignment: 9
+      pivot: {x: 0.39156505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.849289, y: 66}
+        - {x: -34.84929, y: 16}
+        - {x: -34.84929, y: 3}
+        - {x: -25.849289, y: 0}
+        - {x: 37.15071, y: 0}
+        - {x: 47.15071, y: 1}
+        - {x: 54.15071, y: 18}
+        - {x: 54.15071, y: 66}
+      - - {x: 8.150711, y: 31}
+        - {x: 25.150711, y: 49}
+        - {x: 35.15071, y: 36}
+        - {x: 13.150711, y: 22}
+      tessellationDetail: 0
+    - name: Aquaman_143
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 696
+        width: 67
+        height: 69
+      alignment: 9
+      pivot: {x: 0.20651792, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8367004, y: 69}
+        - {x: -13.8367, y: 58}
+        - {x: -13.8367, y: 15}
+        - {x: -7.8367004, y: 0}
+        - {x: 2.1632996, y: 0}
+        - {x: 19.1633, y: 15}
+        - {x: 19.1633, y: 69}
+      - - {x: 35.1633, y: 28}
+        - {x: 21.1633, y: 25}
+        - {x: 15.1633, y: 20}
+        - {x: 16.1633, y: 17}
+        - {x: 31.1633, y: 17}
+        - {x: 40.1633, y: 22}
+        - {x: 40.1633, y: 28}
+      - - {x: 22.1633, y: 64}
+        - {x: 21.1633, y: 62}
+        - {x: 22.1633, y: 59}
+        - {x: 42.1633, y: 26}
+        - {x: 45.1633, y: 26}
+        - {x: 53.1633, y: 31}
+        - {x: 53.1633, y: 56}
+        - {x: 39.1633, y: 64}
+      tessellationDetail: 0
+    - name: Aquaman_145
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 696
+        width: 28
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_148
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 696
+        width: 33
+        height: 67
+      alignment: 9
+      pivot: {x: 0.28492877, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.597351, y: 67}
+        - {x: 8.597351, y: 62}
+        - {x: 10.597351, y: 54}
+        - {x: 10.597351, y: 57}
+        - {x: 5.597351, y: 59}
+        - {x: 0.5973511, y: 59}
+        - {x: -9.402649, y: 48}
+        - {x: -9.402649, y: 1}
+        - {x: -8.402649, y: 0}
+        - {x: 1.5973511, y: 0}
+        - {x: 23.597351, y: 31}
+        - {x: 23.597351, y: 56}
+        - {x: 16.597351, y: 67}
+      tessellationDetail: 0
+    - name: Aquaman_149
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 696
+        width: 124
+        height: 73
+      alignment: 9
+      pivot: {x: 0.45972222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.994446, y: 68}
+        - {x: 56.994446, y: 73}
+        - {x: 4.994446, y: 73}
+        - {x: -57.005554, y: 31}
+        - {x: -57.005554, y: 9}
+        - {x: -36.005554, y: 9}
+        - {x: -14.005554, y: 0}
+        - {x: 13.994446, y: 0}
+        - {x: 36.994446, y: 16}
+        - {x: 66.994446, y: 38}
+      - - {x: -8.005554, y: 30}
+        - {x: -8.005554, y: 23}
+        - {x: -20.005554, y: 23}
+      tessellationDetail: 0
+    - name: Aquaman_150
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 696
+        width: 99
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5876218, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.17456, y: 56}
+        - {x: -58.17456, y: 20}
+        - {x: -58.17456, y: 14}
+        - {x: -47.17456, y: 12}
+        - {x: -35.17456, y: 0}
+        - {x: 22.82544, y: 0}
+        - {x: 40.82544, y: 18}
+        - {x: 40.82544, y: 51}
+        - {x: 30.82544, y: 56}
+      - - {x: -33.17456, y: 20}
+        - {x: -22.17456, y: 23}
+        - {x: -7.1745605, y: 30}
+        - {x: -34.17456, y: 20}
+      tessellationDetail: 0
+    - name: Aquaman_151
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 696
+        width: 87
+        height: 58
+      alignment: 9
+      pivot: {x: 0.71150154, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.900635, y: 58}
+        - {x: -61.900635, y: 25}
+        - {x: -61.900635, y: 6}
+        - {x: -41.900635, y: 0}
+        - {x: 16.099365, y: 0}
+        - {x: 25.099365, y: 24}
+        - {x: 25.099365, y: 58}
+      tessellationDetail: 0
+    - name: Aquaman_152
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 696
+        width: 77
+        height: 63
+      alignment: 9
+      pivot: {x: 0.62289864, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.036804, y: 63}
+        - {x: 5.036804, y: 60}
+        - {x: 4.036804, y: 57}
+        - {x: 4.036804, y: 54}
+        - {x: 4.036804, y: 58}
+        - {x: 5.036804, y: 63}
+        - {x: -4.963196, y: 63}
+        - {x: -47.963196, y: 56}
+        - {x: -47.963196, y: 43}
+        - {x: -22.963196, y: 0}
+        - {x: 6.036804, y: 0}
+        - {x: 29.036804, y: 17}
+        - {x: 29.036804, y: 63}
+      tessellationDetail: 0
+    - name: Aquaman_153
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 696
+        width: 76
+        height: 54
+      alignment: 9
+      pivot: {x: 0.66031575, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.183998, y: 54}
+        - {x: -39.184, y: 36}
+        - {x: -50.184, y: 22}
+        - {x: -50.184, y: 9}
+        - {x: -35.184, y: 0}
+        - {x: 8.816002, y: 0}
+        - {x: 25.816002, y: 16}
+        - {x: 25.816002, y: 54}
+      - - {x: 8.816002, y: 29}
+        - {x: 10.816002, y: 27}
+        - {x: 9.816002, y: 26}
+        - {x: 10.816002, y: 26}
+      tessellationDetail: 0
+    - name: Aquaman_155
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 696
+        width: 37
+        height: 59
+      alignment: 9
+      pivot: {x: 0.3721198, y: 0.013366699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.768433, y: 58.211365}
+        - {x: -13.768433, y: 48.211365}
+        - {x: -13.768433, y: 13.211365}
+        - {x: -7.7684326, y: -0.78863525}
+        - {x: 10.231567, y: -0.78863525}
+        - {x: 22.231567, y: 29.211365}
+        - {x: 22.231567, y: 57.211365}
+        - {x: 20.231567, y: 58.211365}
+      tessellationDetail: 0
+    - name: Aquaman_156
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 696
+        width: 29
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_163
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 682
+        width: 40
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_164
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 682
+        width: 31
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_165
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 682
+        width: 41
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_166
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 596
+        width: 52
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 43}
+        - {x: 11, y: 58}
+        - {x: 2, y: 56}
+        - {x: 0, y: 55}
+        - {x: 1, y: 60}
+        - {x: -1, y: 69}
+        - {x: -3, y: 70}
+        - {x: -26, y: 70}
+        - {x: -26, y: 20}
+        - {x: -16, y: 6}
+        - {x: -6, y: 0}
+        - {x: 8, y: 0}
+        - {x: 12, y: 9}
+        - {x: 26, y: 32}
+        - {x: 26, y: 41}
+      - - {x: -5, y: 70}
+        - {x: -4, y: 67}
+        - {x: 0, y: 67}
+        - {x: 2, y: 69}
+        - {x: 2, y: 70}
+      tessellationDetail: 0
+    - name: Aquaman_167
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 657
+        width: 6
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_168
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 665
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_169
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 654
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_170
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 655
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_171
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 596
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 68}
+        - {x: -16.5, y: 68}
+        - {x: -21.5, y: 46}
+        - {x: -21.5, y: 8}
+        - {x: -19.5, y: 8}
+        - {x: -7.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 21.5, y: 20}
+        - {x: 21.5, y: 61}
+      tessellationDetail: 0
+    - name: Aquaman_172
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 596
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 13}
+        - {x: -19, y: 15}
+        - {x: -16, y: 23}
+        - {x: -13, y: 2}
+        - {x: -12, y: 0}
+        - {x: 17, y: 0}
+        - {x: 24, y: 7}
+        - {x: 24, y: 49}
+        - {x: 13, y: 58}
+        - {x: -18, y: 58}
+        - {x: -24, y: 52}
+        - {x: -24, y: 13}
+      tessellationDetail: 0
+    - name: Aquaman_173
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 596
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 57}
+        - {x: -20.5, y: 49}
+        - {x: -20.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 20.5, y: 22}
+        - {x: 20.5, y: 57}
+      tessellationDetail: 0
+    - name: Aquaman_174
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 596
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 41}
+        - {x: -17, y: 35}
+        - {x: -20, y: 23}
+        - {x: -20, y: 3}
+        - {x: -19, y: 0}
+        - {x: 16, y: 0}
+        - {x: 19, y: 2}
+        - {x: 20, y: 6}
+        - {x: 20, y: 41}
+      tessellationDetail: 0
+    - name: Aquaman_175
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 596
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 47}
+        - {x: -34, y: 28}
+        - {x: -34, y: 0}
+        - {x: -19, y: 0}
+        - {x: 34, y: 16}
+        - {x: 34, y: 39}
+        - {x: 13, y: 47}
+      tessellationDetail: 0
+    - name: Aquaman_176
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 596
+        width: 79
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: 16}
+        - {x: 39.5, y: 34}
+        - {x: 14.5, y: 44}
+        - {x: -18.5, y: 44}
+        - {x: -39.5, y: 23}
+        - {x: -39.5, y: 0}
+        - {x: -26.5, y: 0}
+        - {x: -4.5, y: 5}
+        - {x: -1.5, y: 12}
+        - {x: -1.5, y: 17}
+        - {x: 3.5, y: 15}
+      tessellationDetail: 0
+    - name: Aquaman_177
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 596
+        width: 79
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 44}
+        - {x: -12.5, y: 44}
+        - {x: -19.5, y: 41}
+        - {x: -24.5, y: 34}
+        - {x: -39.5, y: 15}
+        - {x: -39.5, y: 0}
+        - {x: -8.5, y: 0}
+        - {x: 39.5, y: 15}
+        - {x: 39.5, y: 36}
+      tessellationDetail: 0
+    - name: Aquaman_178
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 596
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 41}
+        - {x: -28, y: 8}
+        - {x: -28, y: 0}
+        - {x: 7, y: 0}
+        - {x: 28, y: 15}
+        - {x: 28, y: 31}
+        - {x: 13, y: 41}
+      tessellationDetail: 0
+    - name: Aquaman_179
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 615
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_180
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 625
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_181
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 596
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 25}
+        - {x: 3.5, y: 22}
+        - {x: 17.5, y: 18}
+        - {x: 21.5, y: 21}
+        - {x: 21.5, y: 37}
+        - {x: 13.5, y: 47}
+        - {x: -18.5, y: 47}
+        - {x: -21.5, y: 41}
+        - {x: -21.5, y: 0}
+        - {x: 0.5, y: 0}
+        - {x: 4.5, y: 18}
+        - {x: 0.5, y: 23}
+        - {x: 0.5, y: 27}
+      - - {x: 17.5, y: 38}
+        - {x: 17.5, y: 37}
+        - {x: 20.5, y: 34}
+        - {x: 21.5, y: 34}
+        - {x: 21.5, y: 40}
+        - {x: 19.5, y: 40}
+      tessellationDetail: 0
+    - name: Aquaman_182
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 624
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_183
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 621
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_184
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 619
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_185
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 596
+        width: 48
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 51}
+        - {x: -24, y: 50}
+        - {x: -24, y: 0}
+        - {x: 12, y: 0}
+        - {x: 24, y: 13}
+        - {x: 24, y: 47}
+        - {x: 12, y: 51}
+      tessellationDetail: 0
+    - name: Aquaman_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 611
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_187
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 582
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_188
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 582
+        width: 37
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_189
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 582
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 582
+        width: 39
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_191
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 449
+        width: 605
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -302.5, y: 126}
+        - {x: -302.5, y: 0}
+        - {x: 302.5, y: 0}
+        - {x: 302.5, y: 126}
+      tessellationDetail: 0
+    - name: Aquaman_192
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 435
+        width: 33
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_193
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 724
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -362, y: 68}
+        - {x: -362, y: 0}
+        - {x: 362, y: 0}
+        - {x: 362, y: 68}
+      tessellationDetail: 0
+    - name: Aquaman_194
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 385
+        width: 86
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_195
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 346
+        width: 55
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_196
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 193
+        width: 128
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 184}
+        - {x: -36, y: 184}
+        - {x: -64, y: 135}
+        - {x: -64, y: 56}
+        - {x: -54, y: 46}
+        - {x: -36, y: 50}
+        - {x: 4, y: 52}
+        - {x: 9, y: 54}
+        - {x: -11, y: 34}
+        - {x: -25, y: 2}
+        - {x: -25, y: 0}
+        - {x: 64, y: 0}
+        - {x: 64, y: 148}
+        - {x: 34, y: 180}
+      tessellationDetail: 0
+    - name: Aquaman_197
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 290
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_198
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 290
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_199
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 290
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_200
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 290
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_201
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 290
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_202
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 290
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_203
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 290
+        width: 30
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_204
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 271
+        width: 30
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_205
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 273
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_206
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 216
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 50}
+        - {x: -17.5, y: 40}
+        - {x: -17.5, y: 10}
+        - {x: -15.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_207
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 216
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 23}
+        - {x: 18.5, y: 49}
+        - {x: 13.5, y: 50}
+        - {x: -16.5, y: 50}
+        - {x: -18.5, y: 48}
+        - {x: -18.5, y: 1}
+        - {x: -16.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 12.5, y: 1}
+        - {x: 9.5, y: 4}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - name: Aquaman_208
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 216
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 50}
+        - {x: -20, y: 36}
+        - {x: -20, y: 7}
+        - {x: -18, y: 0}
+        - {x: 14, y: 0}
+        - {x: 20, y: 6}
+        - {x: 20, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_209
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 263
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_210
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 50}
+        - {x: -14, y: 50}
+        - {x: -18, y: 46}
+        - {x: -18, y: 0}
+        - {x: 13, y: 0}
+        - {x: 18, y: 29}
+        - {x: 18, y: 47}
+        - {x: 16, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_211
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 216
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 49}
+        - {x: -17, y: 41}
+        - {x: -17, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_212
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 216
+        width: 31
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_213
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 216
+        width: 32
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 50}
+        - {x: -14, y: 50}
+        - {x: -16, y: 49}
+        - {x: -16, y: 0}
+        - {x: -7, y: 0}
+        - {x: -1, y: 6}
+        - {x: -1, y: 11}
+        - {x: -1, y: 5}
+      tessellationDetail: 0
+    - name: Aquaman_214
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 216
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 0}
+        - {x: 17, y: 0}
+        - {x: 17, y: 44}
+        - {x: 12, y: 49}
+        - {x: -14, y: 49}
+        - {x: -17, y: 48}
+        - {x: -17, y: 0}
+        - {x: -6, y: 0}
+        - {x: -2, y: 10}
+        - {x: -2, y: 14}
+        - {x: -2, y: 4}
+      tessellationDetail: 0
+    - name: Aquaman_215
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 216
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 49}
+        - {x: -17, y: 47}
+        - {x: -17, y: 8}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 2}
+        - {x: 17, y: 45}
+        - {x: 15, y: 49}
+      tessellationDetail: 0
+    - name: Aquaman_216
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 216
+        width: 44
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 1}
+        - {x: 22, y: 4}
+        - {x: 22, y: 22}
+        - {x: 17, y: 34}
+        - {x: -10, y: 34}
+        - {x: -22, y: 18}
+        - {x: -22, y: 0}
+        - {x: -2, y: 0}
+        - {x: 3, y: 3}
+        - {x: 6, y: 6}
+        - {x: 7, y: 4}
+      tessellationDetail: 0
+    - name: Aquaman_217
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 216
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -16, y: 3}
+        - {x: -12, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 33}
+        - {x: 9, y: 35}
+      tessellationDetail: 0
+    - name: Aquaman_218
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 216
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_219
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 216
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32}
+        - {x: -18, y: 29}
+        - {x: -18, y: 1}
+        - {x: -14, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 23}
+        - {x: 11, y: 32}
+      tessellationDetail: 0
+    - name: Aquaman_220
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 216
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 0}
+        - {x: 14, y: 0}
+        - {x: 19, y: 5}
+        - {x: 19, y: 34}
+        - {x: 13, y: 38}
+        - {x: -16, y: 38}
+        - {x: -19, y: 36}
+        - {x: -19, y: 0}
+        - {x: -2, y: 0}
+        - {x: -3, y: 5}
+        - {x: -1, y: 7}
+        - {x: -2, y: 2}
+      tessellationDetail: 0
+    - name: Aquaman_221
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 202
+        width: 43
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_222
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 35
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9}
+        - {x: 17.5, y: 40}
+        - {x: 12.5, y: 45}
+        - {x: -9.5, y: 45}
+        - {x: -17.5, y: 38}
+        - {x: -17.5, y: 23}
+        - {x: -15.5, y: 21}
+        - {x: -11.5, y: 21}
+        - {x: -9.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 15.5, y: 2}
+        - {x: 13.5, y: 4}
+        - {x: 16.5, y: 8}
+      tessellationDetail: 0
+    - name: Aquaman_223
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 39
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 42}
+        - {x: -19.5, y: 34}
+        - {x: -19.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 42}
+      tessellationDetail: 0
+    - name: Aquaman_224
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 145
+        width: 57
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 42}
+        - {x: -28.5, y: 38}
+        - {x: -28.5, y: 1}
+        - {x: -22.5, y: 0}
+        - {x: 10.5, y: 0}
+        - {x: 28.5, y: 9}
+        - {x: 28.5, y: 24}
+        - {x: 16.5, y: 42}
+      tessellationDetail: 0
+    - name: Aquaman_225
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 54
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 43}
+        - {x: -27, y: 40}
+        - {x: -27, y: 3}
+        - {x: -26, y: 0}
+        - {x: 17, y: 0}
+        - {x: 27, y: 2}
+        - {x: 27, y: 25}
+        - {x: 17, y: 43}
+      - - {x: 4, y: 22}
+        - {x: 5, y: 23}
+        - {x: 9, y: 21}
+      tessellationDetail: 0
+    - name: Aquaman_226
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 145
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 50}
+        - {x: -22, y: 39}
+        - {x: -22, y: 9}
+        - {x: -10, y: 0}
+        - {x: 22, y: 0}
+        - {x: 22, y: 49}
+        - {x: 18, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_227
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 145
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 48}
+        - {x: -24, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 13}
+        - {x: 24, y: 39}
+        - {x: 13, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_228
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 145
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 48}
+        - {x: -8, y: 48}
+        - {x: -21, y: 37}
+        - {x: -21, y: 23}
+        - {x: -14, y: 20}
+        - {x: -10, y: 26}
+        - {x: -10, y: 28}
+        - {x: -12, y: 30}
+        - {x: -9, y: 28}
+        - {x: -16, y: 10}
+        - {x: -16, y: 0}
+        - {x: 17, y: 0}
+        - {x: 21, y: 21}
+        - {x: 21, y: 39}
+      tessellationDetail: 0
+    - name: Aquaman_229
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 145
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 48}
+        - {x: -21, y: 40}
+        - {x: -21, y: 4}
+        - {x: -18, y: 0}
+        - {x: 17, y: 0}
+        - {x: 21, y: 7}
+        - {x: 21, y: 39}
+        - {x: 11, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_230
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 145
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 23}
+        - {x: 18.5, y: 49}
+        - {x: 13.5, y: 50}
+        - {x: -16.5, y: 50}
+        - {x: -18.5, y: 48}
+        - {x: -18.5, y: 1}
+        - {x: -16.5, y: 0}
+        - {x: 12.5, y: 0}
+        - {x: 12.5, y: 1}
+        - {x: 9.5, y: 4}
+        - {x: 11.5, y: 11}
+      tessellationDetail: 0
+    - name: Aquaman_231
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 136
+        width: 224
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112, y: 55}
+        - {x: -112, y: 0}
+        - {x: 112, y: 0}
+        - {x: 112, y: 55}
+      tessellationDetail: 0
+    - name: Aquaman_232
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 131
+        width: 15
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_233
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 48}
+        - {x: -20.5, y: 44}
+        - {x: -20.5, y: 11}
+        - {x: -15.5, y: 0}
+        - {x: 20.5, y: 0}
+        - {x: 20.5, y: 35}
+        - {x: 11.5, y: 48}
+      tessellationDetail: 0
+    - name: Aquaman_234
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 50}
+        - {x: -17.5, y: 45}
+        - {x: -17.5, y: 9}
+        - {x: -14.5, y: 0}
+        - {x: 17.5, y: 0}
+        - {x: 17.5, y: 39}
+        - {x: 9.5, y: 50}
+      tessellationDetail: 0
+    - name: Aquaman_235
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 42}
+        - {x: 14, y: 50}
+        - {x: -9, y: 50}
+        - {x: -18, y: 45}
+        - {x: -18, y: 17}
+        - {x: -12, y: 0}
+        - {x: -1, y: 0}
+        - {x: -1, y: 2}
+        - {x: 2, y: 0}
+        - {x: 18, y: 0}
+      tessellationDetail: 0
+    - name: Aquaman_236
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 59}
+        - {x: -21.5, y: 38}
+        - {x: -21.5, y: 0}
+        - {x: 1.5, y: 0}
+        - {x: 21.5, y: 14}
+        - {x: 21.5, y: 40}
+        - {x: 4.5, y: 59}
+      tessellationDetail: 0
+    - name: Aquaman_237
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 63
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 61}
+        - {x: -21, y: 49}
+        - {x: -21, y: 24}
+        - {x: -11, y: 0}
+        - {x: 2, y: 0}
+        - {x: 21, y: 13}
+        - {x: 21, y: 49}
+        - {x: 7, y: 61}
+      tessellationDetail: 0
+    - name: Aquaman_238
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 59}
+        - {x: -21.5, y: 47}
+        - {x: -21.5, y: 26}
+        - {x: -9.5, y: 0}
+        - {x: 5.5, y: 0}
+        - {x: 21.5, y: 24}
+        - {x: 21.5, y: 50}
+        - {x: 7.5, y: 59}
+      tessellationDetail: 0
+    - name: Aquaman_239
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 63
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 17}
+        - {x: 17, y: 41}
+        - {x: 9, y: 50}
+        - {x: -15, y: 50}
+        - {x: -17, y: 49}
+        - {x: -17, y: 7}
+        - {x: -9, y: 0}
+        - {x: 5, y: 0}
+        - {x: 15, y: 3}
+        - {x: 13, y: 6}
+      tessellationDetail: 0
+    - name: Aquaman_240
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 63
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 45}
+        - {x: -18.5, y: 45}
+        - {x: -19.5, y: 44}
+        - {x: -19.5, y: 26}
+        - {x: -7.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 35}
+        - {x: 14.5, y: 42}
+      tessellationDetail: 0
+    - name: Aquaman_241
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 63
+        width: 49
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_242
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 63
+        width: 49
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_243
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 63
+        width: 43
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 34}
+        - {x: -17.5, y: 29}
+        - {x: -21.5, y: 16}
+        - {x: -21.5, y: 0}
+        - {x: 6.5, y: 0}
+        - {x: 21.5, y: 15}
+        - {x: 21.5, y: 29}
+        - {x: 10.5, y: 34}
+      tessellationDetail: 0
+    - name: Aquaman_244
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 63
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 42}
+        - {x: -17, y: 28}
+        - {x: -17, y: 0}
+        - {x: 16, y: 0}
+        - {x: 17, y: 3}
+        - {x: 17, y: 42}
+      tessellationDetail: 0
+    - name: Aquaman_245
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 63
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 32}
+        - {x: -8, y: 20}
+        - {x: -8, y: 14}
+        - {x: -9, y: 18}
+        - {x: -11, y: 23}
+        - {x: -17, y: 23}
+        - {x: -22, y: 21}
+        - {x: -23, y: 16}
+        - {x: -23, y: 0}
+        - {x: 13, y: 0}
+        - {x: 23, y: 12}
+        - {x: 23, y: 32}
+      tessellationDetail: 0
+    - name: Aquaman_246
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 63
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 32}
+        - {x: -22, y: 30}
+        - {x: -25, y: 26}
+        - {x: -25, y: 6}
+        - {x: -23, y: 2}
+        - {x: -12, y: 0}
+        - {x: 15, y: 0}
+        - {x: 25, y: 12}
+        - {x: 25, y: 30}
+        - {x: 21, y: 32}
+      tessellationDetail: 0
+    - name: Aquaman_247
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 63
+        width: 56
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_248
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 63
+        width: 58
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_249
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 63
+        width: 58
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_250
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 57
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_251
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 59
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_252
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 62
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_253
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2
+        width: 62
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_254
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2
+        width: 60
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_255
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2
+        width: 53
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_256
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 53
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_257
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2
+        width: 52
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_258
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2
+        width: 46
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_259
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_260
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: Aquaman_261
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2
+        width: 39
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 38}
+        - {x: -19.5, y: 28}
+        - {x: -19.5, y: 20}
+        - {x: -13.5, y: 13}
+        - {x: -11.5, y: 0}
+        - {x: 19.5, y: 0}
+        - {x: 19.5, y: 34}
+        - {x: 15.5, y: 38}
+      tessellationDetail: 0
+    - name: Aquaman_262
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2
+        width: 40
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 0}
+        - {x: 20, y: 0}
+        - {x: 20, y: 38}
+        - {x: 17, y: 43}
+        - {x: -13, y: 43}
+        - {x: -20, y: 35}
+        - {x: -20, y: 8}
+        - {x: -14, y: 0}
+        - {x: -1, y: 0}
+        - {x: 4, y: 7}
+        - {x: 5, y: 10}
+        - {x: 5, y: 7}
+      tessellationDetail: 0
+    - name: Aquaman_263
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2
+        width: 36
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 35}
+        - {x: 12, y: 50}
+        - {x: -6, y: 50}
+        - {x: -18, y: 37}
+        - {x: -18, y: 15}
+        - {x: -14, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 1}
+        - {x: 14, y: 4}
+        - {x: 18, y: 20}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
