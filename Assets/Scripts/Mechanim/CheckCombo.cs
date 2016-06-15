@@ -1,21 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CheckInput : StateMachineBehaviour {
+public class CheckCombo : StateMachineBehaviour {
 
-    public Inputs inputToCheck;
+    public Inputs input;
+    public InputActions onAction;
+    public int setValue;
 
     [HideInInspector]
     public InputManager inputManager;
-
-    private bool isLanding = false; 
+    [HideInInspector]
+    public string paramName = "ComboCounter";
 
 	 // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
 	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        if (this.inputManager == null)
+	    if (this.inputManager == null)
         {
             this.inputManager = animator.gameObject.GetComponent<InputManager>();
-        }	
+        }
 	}
 
 	// OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
@@ -25,13 +27,13 @@ public class CheckInput : StateMachineBehaviour {
             Debug.LogWarning("InputManager not found for " + animator.gameObject);
             return;
         }
-
-        /*AnimatorStateInfo animatorInfo = animator.GetCurrentAnimatorStateInfo(0);
-        isLanding = animatorInfo.IsName("Fall-End-Hard") || animatorInfo.IsName("Fall-End");*/
-        
-        animator.SetInteger(string.Format("{0}_Input", inputToCheck), (int)this.inputManager.GetInput(inputToCheck));
-     
-	}
+        if (animator.GetInteger(paramName) == 0)
+        {
+            InputActions inputAction = this.inputManager.GetInput(input);
+            int nextValue = inputAction == onAction ? setValue : 0;
+            animator.SetInteger(paramName, nextValue);
+        }
+    }
 
 	// OnStateExit is called when a transition ends and the state machine finishes evaluating this state
 	//override public void OnStateExit(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {

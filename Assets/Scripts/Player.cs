@@ -23,6 +23,7 @@ public class Player : MonoBehaviour
     private Vector2 input = Vector2.zero;
     private Controller2D controller;
     private Animator animator;
+    private SpriteRenderer playerSprite;
 
     private float velocityXSmoothing;
     private bool slowdownTimeActive;
@@ -32,6 +33,7 @@ public class Player : MonoBehaviour
     {
         controller = GetComponent<Controller2D>();
         animator = GetComponent<Animator>();
+        playerSprite = GetComponent<SpriteRenderer>();
 
         gravity = -(2 * maxJumpHeight) / Mathf.Pow(timeToJumpApex, 2);
         maxJumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
@@ -40,7 +42,7 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        //this.StopHorizontalMovement();
+        this.StopHorizontalMovement();
         this.ApplyGravity();
         controller.Move(this.velocity * Time.deltaTime, input);
 
@@ -63,6 +65,27 @@ public class Player : MonoBehaviour
         }
     }
 
+    public void AddHorizontalMovement(float inputValue, float accelerationTime)
+    {
+        this.slowdownTimeActive = false;
+
+        if (inputValue != 0)
+        {
+            float targetVelocityX = inputValue * this.moveSpeed;
+            this.velocity.x = Mathf.SmoothDamp(this.velocity.x, targetVelocityX, ref velocityXSmoothing, accelerationTime);
+        }
+        
+    }
+    
+    public void Flip(float inputValue)
+    {
+        if ( (inputValue > 0f && !facingRight) || (inputValue < 0f && facingRight))
+        {
+            playerSprite.flipX = !playerSprite.flipX;
+            facingRight = !facingRight;          
+        }
+    }
+
     private void UpdateAnimator()
     {
         this.animator.SetBool("Grounded", this.controller.collisions.below);
@@ -72,6 +95,21 @@ public class Player : MonoBehaviour
             this.animator.SetBool("FallHardFlag", true);
         }
         animator.SetInteger("JumpHeavyAtackPath", this.jumpHeavyAttackPath);
+    }
+
+    private void StopHorizontalMovement()
+    {
+        if (this.slowdownTimeActive)
+        {
+            float targetVeloctyX = 0f;
+            this.velocity.x = Mathf.SmoothDamp(this.velocity.x, targetVeloctyX, ref velocityXSmoothing, this.slowdownTime);
+        }
+    }
+
+    public void StopHorizontalMovement(float slowdownTime)
+    {
+        this.slowdownTime = slowdownTime;
+        this.slowdownTimeActive = true;
     }
 
     private void ApplyGravity()

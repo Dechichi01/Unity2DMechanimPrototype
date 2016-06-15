@@ -1,36 +1,27 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CheckInput : StateMachineBehaviour {
-
-    public Inputs inputToCheck;
+public class StopMovement : StateMachineBehaviour {
 
     [HideInInspector]
-    public InputManager inputManager;
-
-    private bool isLanding = false; 
+    public Player player;
+    public float slowdownTime = 0.1f;
 
 	 // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
 	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        if (this.inputManager == null)
+	    if (this.player == null)
         {
-            this.inputManager = animator.gameObject.GetComponent<InputManager>();
-        }	
+            this.player = animator.gameObject.GetComponent<Player>();
+        }    
 	}
 
 	// OnStateUpdate is called on each Update frame between OnStateEnter and OnStateExit callbacks
 	override public void OnStateUpdate(Animator animator, AnimatorStateInfo stateInfo, int layerIndex) {
-        if (this.inputManager == null)
+	    if (this.player == null)
         {
-            Debug.LogWarning("InputManager not found for " + animator.gameObject);
-            return;
+            Debug.LogWarning("Player not found for " + animator.gameObject);
         }
-
-        /*AnimatorStateInfo animatorInfo = animator.GetCurrentAnimatorStateInfo(0);
-        isLanding = animatorInfo.IsName("Fall-End-Hard") || animatorInfo.IsName("Fall-End");*/
-        
-        animator.SetInteger(string.Format("{0}_Input", inputToCheck), (int)this.inputManager.GetInput(inputToCheck));
-     
+        this.player.StopHorizontalMovement(this.slowdownTime);
 	}
 
 	// OnStateExit is called when a transition ends and the state machine finishes evaluating this state

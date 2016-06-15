@@ -44,8 +44,6 @@ public class Controller2D : RaycastController {
 		if (standingOnPlatform) {
 			collisions.below = true;
 		}
-
-        Debug.Log("Collisions below: " + collisions.below + "    Collisoins above: " + collisions.above);
 	}
 
 	void HorizontalCollisions(ref Vector3 velocity) {
